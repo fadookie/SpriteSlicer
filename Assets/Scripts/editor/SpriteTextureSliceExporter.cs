@@ -10,6 +10,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
@@ -175,7 +176,7 @@ public class SpriteTextureSliceExporter : ScriptableObject
             } // if (selectedTexture != null)
         } // foreach (Object activeObject in selectedTextures)
     }
-
+    
     [MenuItem("SpriteTextureSliceExporter/ImageSliceExporter")]
     public static void ImageSliceExporter() {
         var selectedTextures = Selection.GetFiltered(typeof(Texture2D), SelectionMode.Assets);
@@ -278,4 +279,64 @@ public class SpriteTextureSliceExporter : ScriptableObject
         public Vector2 pivot;
         public Rect rect;
     }
+    
+
+    [MenuItem("SpriteTextureSliceExporter/Export Slices")]
+    public static void ExportSlices() {
+//        var selectedTextures = Selection.GetFiltered(typeof(Texture2D), SelectionMode.Assets);
+//        if (selectedTextures.Length == 0) {
+//            EditorUtility.DisplayDialog("ImageSliceExporter", "Please select texture", "OK");
+//            return;
+//        }
+        var outputDirectory = GetOutputDirectory();
+//        var outputDirectory = Application.persistentDataPath;
+        
+        var assetPaths = Selection.assetGUIDs
+            .Select(AssetDatabase.GUIDToAssetPath)
+//            .Select(path => Path.ChangeExtension(path, null))
+            .Select(AssetDatabase.LoadAllAssetsAtPath)
+            .ToArray();
+        Debug.Log($"ExportSlicesContext, len={assetPaths.Length} {string.Join(System.Environment.NewLine, (object[])assetPaths)}");
+        foreach (var subassets in assetPaths) {
+            Debug.Log($"ExportSlicesContext, subasset len={subassets.Length} {string.Join(System.Environment.NewLine, (object[])subassets)}");
+            var sprites = subassets
+                .Where(x => x is Sprite)
+                .Cast<Sprite>()
+                .ToArray();
+            foreach (var sprite in sprites) {
+                Debug.Log($"ExportSlicesContext inner loop, {sprite.GetType()} = {sprite}");
+                var tex = sprite.texture;
+                var r = sprite.textureRect;
+                var subtex = tex.CropTexture( (int)r.x, (int)r.y, (int)r.width, (int)r.height );
+                var data = subtex.EncodeToPNG();
+                var outPath = $"{outputDirectory}/{sprite.name}.png";
+                File.WriteAllBytes(outPath, data);
+                Debug.Log($"Wrote to '{outPath}'");
+            }
+        }
+//        foreach (var texture in selectedTextures) {
+//            var texture = Resources.Load<Texture2D>(assetPath);
+//            Debug.Log($"ExportSlicesContext tex= {texture}");
+//            var sprites = Resources.LoadAll<Sprite>(texture.name);
+//            Debug.Log($"ExportSlicesContext sprites= {string.Join(System.Environment.NewLine, (object[])sprites)} length={sprites.Length}");
+//            foreach (Sprite sprite in sprites) {
+//                Debug.Log($"ExportSlicesContext inner loop, {sprite}");
+//                var tex = sprite.texture;
+//                var r = sprite.textureRect;
+//                var subtex = tex.CropTexture( (int)r.x, (int)r.y, (int)r.width, (int)r.height );
+//                var data = subtex.EncodeToPNG();
+//                var outPath = $"{outputDirectory}/{sprite.name}.png";
+//                File.WriteAllBytes(outPath, data);
+//                Debug.Log($"Wrote to '{outPath}'");
+//            }
+//        }
+//        var selectedTexture = Selection.activeObject as Texture2D;
+//        selectedTexture.
+    }
+    
+    [MenuItem("SpriteTextureSliceExporter/Export Slices", true)]
+    public static bool ExportSlicesValidation() {
+        return Selection.activeObject as Texture2D != null;
+    }
+
 }
