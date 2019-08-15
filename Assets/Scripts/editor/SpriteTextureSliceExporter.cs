@@ -1,6 +1,6 @@
 ﻿/**
  * Exports sprite sheet as individual images
- * Based looseley on https://gist.github.com/bmanGH/8785040
+ * Based loosely on https://gist.github.com/bmanGH/8785040
  */
 
 using System.IO;
