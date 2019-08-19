@@ -1,0 +1,3690 @@
+fileFormatVersion: 2
+guid: c1da3d189a82b429b9a69001182e3e3b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - X-Men - Cyclops_0
+    21300002: Arcade - X-Men - Cyclops_1
+    21300004: Arcade - X-Men - Cyclops_2
+    21300006: Arcade - X-Men - Cyclops_3
+    21300008: Arcade - X-Men - Cyclops_4
+    21300010: Arcade - X-Men - Cyclops_5
+    21300012: Arcade - X-Men - Cyclops_6
+    21300014: Arcade - X-Men - Cyclops_7
+    21300016: Arcade - X-Men - Cyclops_8
+    21300018: Arcade - X-Men - Cyclops_9
+    21300020: Arcade - X-Men - Cyclops_10
+    21300022: Arcade - X-Men - Cyclops_11
+    21300024: Arcade - X-Men - Cyclops_12
+    21300026: Arcade - X-Men - Cyclops_13
+    21300028: Arcade - X-Men - Cyclops_14
+    21300030: Arcade - X-Men - Cyclops_15
+    21300032: Arcade - X-Men - Cyclops_16
+    21300034: Arcade - X-Men - Cyclops_17
+    21300036: Arcade - X-Men - Cyclops_18
+    21300038: Arcade - X-Men - Cyclops_19
+    21300040: Arcade - X-Men - Cyclops_20
+    21300042: Arcade - X-Men - Cyclops_21
+    21300044: Arcade - X-Men - Cyclops_22
+    21300046: Arcade - X-Men - Cyclops_23
+    21300048: Arcade - X-Men - Cyclops_24
+    21300050: Arcade - X-Men - Cyclops_25
+    21300052: Arcade - X-Men - Cyclops_26
+    21300054: Arcade - X-Men - Cyclops_27
+    21300056: Arcade - X-Men - Cyclops_28
+    21300058: Arcade - X-Men - Cyclops_29
+    21300060: Arcade - X-Men - Cyclops_30
+    21300062: Arcade - X-Men - Cyclops_31
+    21300064: Arcade - X-Men - Cyclops_32
+    21300066: Arcade - X-Men - Cyclops_33
+    21300068: Arcade - X-Men - Cyclops_34
+    21300070: Arcade - X-Men - Cyclops_35
+    21300072: Arcade - X-Men - Cyclops_36
+    21300074: Arcade - X-Men - Cyclops_37
+    21300076: Arcade - X-Men - Cyclops_38
+    21300078: Arcade - X-Men - Cyclops_39
+    21300080: Arcade - X-Men - Cyclops_40
+    21300082: Arcade - X-Men - Cyclops_41
+    21300084: Arcade - X-Men - Cyclops_42
+    21300086: Arcade - X-Men - Cyclops_43
+    21300088: Arcade - X-Men - Cyclops_44
+    21300090: Arcade - X-Men - Cyclops_45
+    21300092: Arcade - X-Men - Cyclops_46
+    21300094: Arcade - X-Men - Cyclops_47
+    21300096: Arcade - X-Men - Cyclops_48
+    21300098: Arcade - X-Men - Cyclops_49
+    21300100: Arcade - X-Men - Cyclops_50
+    21300102: Arcade - X-Men - Cyclops_51
+    21300104: Arcade - X-Men - Cyclops_52
+    21300106: Arcade - X-Men - Cyclops_53
+    21300108: Arcade - X-Men - Cyclops_54
+    21300110: Arcade - X-Men - Cyclops_55
+    21300112: Arcade - X-Men - Cyclops_56
+    21300114: Arcade - X-Men - Cyclops_57
+    21300116: Arcade - X-Men - Cyclops_58
+    21300118: Arcade - X-Men - Cyclops_59
+    21300120: Arcade - X-Men - Cyclops_60
+    21300122: Arcade - X-Men - Cyclops_61
+    21300124: Arcade - X-Men - Cyclops_62
+    21300126: Arcade - X-Men - Cyclops_63
+    21300128: Arcade - X-Men - Cyclops_64
+    21300130: Arcade - X-Men - Cyclops_65
+    21300132: Arcade - X-Men - Cyclops_66
+    21300134: Arcade - X-Men - Cyclops_67
+    21300136: Arcade - X-Men - Cyclops_68
+    21300138: Arcade - X-Men - Cyclops_69
+    21300140: Arcade - X-Men - Cyclops_70
+    21300142: Arcade - X-Men - Cyclops_71
+    21300144: Arcade - X-Men - Cyclops_72
+    21300146: Arcade - X-Men - Cyclops_73
+    21300148: Arcade - X-Men - Cyclops_74
+    21300150: Arcade - X-Men - Cyclops_75
+    21300152: Arcade - X-Men - Cyclops_76
+    21300154: Arcade - X-Men - Cyclops_77
+    21300156: Arcade - X-Men - Cyclops_78
+    21300158: Arcade - X-Men - Cyclops_79
+    21300160: Arcade - X-Men - Cyclops_80
+    21300162: Arcade - X-Men - Cyclops_81
+    21300164: Arcade - X-Men - Cyclops_82
+    21300166: Arcade - X-Men - Cyclops_83
+    21300168: Arcade - X-Men - Cyclops_84
+    21300170: Arcade - X-Men - Cyclops_85
+    21300172: Arcade - X-Men - Cyclops_86
+    21300174: Arcade - X-Men - Cyclops_87
+    21300176: Arcade - X-Men - Cyclops_88
+    21300178: Arcade - X-Men - Cyclops_89
+    21300180: Arcade - X-Men - Cyclops_90
+    21300182: Arcade - X-Men - Cyclops_91
+    21300184: Arcade - X-Men - Cyclops_92
+    21300186: Arcade - X-Men - Cyclops_93
+    21300188: Arcade - X-Men - Cyclops_94
+    21300190: Arcade - X-Men - Cyclops_95
+    21300192: Arcade - X-Men - Cyclops_96
+    21300194: Arcade - X-Men - Cyclops_97
+    21300196: Arcade - X-Men - Cyclops_98
+    21300198: Arcade - X-Men - Cyclops_99
+    21300200: Arcade - X-Men - Cyclops_100
+    21300202: Arcade - X-Men - Cyclops_101
+    21300204: Arcade - X-Men - Cyclops_102
+    21300206: Arcade - X-Men - Cyclops_103
+    21300208: Arcade - X-Men - Cyclops_104
+    21300210: Arcade - X-Men - Cyclops_105
+    21300212: Arcade - X-Men - Cyclops_106
+    21300214: Arcade - X-Men - Cyclops_107
+    21300216: Arcade - X-Men - Cyclops_108
+    21300218: Arcade - X-Men - Cyclops_109
+    21300220: Arcade - X-Men - Cyclops_110
+    21300222: Arcade - X-Men - Cyclops_111
+    21300224: Arcade - X-Men - Cyclops_112
+    21300226: Arcade - X-Men - Cyclops_113
+    21300228: Arcade - X-Men - Cyclops_114
+    21300230: Arcade - X-Men - Cyclops_115
+    21300232: Arcade - X-Men - Cyclops_116
+    21300234: Arcade - X-Men - Cyclops_117
+    21300236: Arcade - X-Men - Cyclops_118
+    21300238: Arcade - X-Men - Cyclops_119
+    21300240: Arcade - X-Men - Cyclops_120
+    21300242: Arcade - X-Men - Cyclops_121
+    21300244: Arcade - X-Men - Cyclops_122
+    21300246: Arcade - X-Men - Cyclops_123
+    21300248: Arcade - X-Men - Cyclops_124
+    21300250: Arcade - X-Men - Cyclops_125
+    21300252: Arcade - X-Men - Cyclops_126
+    21300254: Arcade - X-Men - Cyclops_127
+    21300256: Arcade - X-Men - Cyclops_128
+    21300258: Arcade - X-Men - Cyclops_129
+    21300260: Arcade - X-Men - Cyclops_130
+    21300262: Arcade - X-Men - Cyclops_131
+    21300264: Arcade - X-Men - Cyclops_132
+    21300266: Arcade - X-Men - Cyclops_133
+    21300268: Arcade - X-Men - Cyclops_134
+    21300270: Arcade - X-Men - Cyclops_135
+    21300272: Arcade - X-Men - Cyclops_136
+    21300274: Arcade - X-Men - Cyclops_137
+    21300276: Arcade - X-Men - Cyclops_138
+    21300278: Arcade - X-Men - Cyclops_139
+    21300280: Arcade - X-Men - Cyclops_140
+    21300282: Arcade - X-Men - Cyclops_141
+    21300284: Arcade - X-Men - Cyclops_142
+    21300286: Arcade - X-Men - Cyclops_143
+    21300288: Arcade - X-Men - Cyclops_144
+    21300290: Arcade - X-Men - Cyclops_145
+    21300292: Arcade - X-Men - Cyclops_146
+    21300294: Arcade - X-Men - Cyclops_147
+    21300296: Arcade - X-Men - Cyclops_148
+    21300298: Arcade - X-Men - Cyclops_149
+    21300300: Arcade - X-Men - Cyclops_150
+    21300302: Arcade - X-Men - Cyclops_151
+    21300304: Arcade - X-Men - Cyclops_152
+    21300306: Arcade - X-Men - Cyclops_153
+    21300308: Arcade - X-Men - Cyclops_154
+    21300310: Arcade - X-Men - Cyclops_155
+    21300312: Arcade - X-Men - Cyclops_156
+    21300314: Arcade - X-Men - Cyclops_157
+    21300316: Arcade - X-Men - Cyclops_158
+    21300318: Arcade - X-Men - Cyclops_159
+    21300320: Arcade - X-Men - Cyclops_160
+    21300322: Arcade - X-Men - Cyclops_161
+    21300324: Arcade - X-Men - Cyclops_162
+    21300326: Arcade - X-Men - Cyclops_163
+    21300328: Arcade - X-Men - Cyclops_164
+    21300330: Arcade - X-Men - Cyclops_165
+    21300332: Arcade - X-Men - Cyclops_166
+    21300334: Arcade - X-Men - Cyclops_167
+    21300336: Arcade - X-Men - Cyclops_168
+    21300338: Arcade - X-Men - Cyclops_169
+    21300340: Arcade - X-Men - Cyclops_170
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1873
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122be5fd99dc6497dbddf45378474708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1873
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36a1ede95a04ab596717fa480c5e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1909
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a0503cc64c54bd9a1bcfbf9fc4f68a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1912
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac40af7070464c83b99b911131af152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1909
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b83214dfc14491a9deb1eb4e8c253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1909
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d84014e6c346d2a34ac125eb9d215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1909
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560b269b610f4d1aa1385cb7f8fc108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1909
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bcfb303910b4c4c87f0bf05df4e819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1909
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e302f925bec043b3b3d5e3b232b06f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1909
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c770a07ef1044fd3a21e6ef83754d04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1909
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ac13b246a6417eb0c2b9ff952cd21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1909
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad4fb1c2f344bd19ea053526c094f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1909
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4ffaefe36c463582e6ac3b607a78a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1909
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28279d740584d4d89995d929b978cd2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1909
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b2c1a7d7bd4df48e92623e9a05c81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1909
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a172a3dbaa35e45d0ba5fb25d570232d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1909
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab5b7a0b229545769d2558c48ee2f83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1909
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb39d1d520d4acea11809d20524507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1909
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475c1971186354ea2bdd203b0d8f6f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1873
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b206eaa70314e74a530698367382c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1873
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e150b9fd14540e4bfb5f2ff1e935b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1873
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8a6a67df2634b549618f43538acb04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1873
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b23182677054ce99edccdfb1461d35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1873
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6d7398e6d640a2bede64fecf00bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1873
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d322490adc435ea58ad4019da6ab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1873
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b5443f5d27347cf82f1e4ee1ba532d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1873
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8db11a82e04f1a8df11bf7325f55a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1741
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c00f53af1ab9477fa4f94ed17028b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1741
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690082bc23344b14a9db9749c7b571b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1741
+        width: 38
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d4e8ff59bf54453a70eb450069a2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1741
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171bc407ccbc740499a5f26881556fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1741
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ba9ec61d4f429db01432aa86c9247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1741
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3b9575401034719abf22bcbd93c81b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1741
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd72e0afa67e4dff96afcd42b7d0915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1741
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cf4a190fee240f58d21c33c0e64e36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1741
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df44f442d0cdb43fba152b52e80c895c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_36
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1741
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412ad60c0bd148849f315f56dce97f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1741
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e505ef8b98284d859768075d5a9dc00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1741
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2043cb5c6849939e76ba139513180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_39
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1741
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc242b00d30b43c6a241ecc8d126f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_40
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1741
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb7bea05cc184e21b590c9bfdfa0e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_41
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1741
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96e834fb4514570a4e98d45e0e210e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_42
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1741
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd3a560d0464b46bf7e134904d33e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_43
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1741
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78168e51b4ac44f6cb89f20f4f707284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1611
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921426bf45bf44f99942879110054624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1611
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d7ebb35c8641fb83c56cb509394c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1611
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41ac9c2023740438588e8f3d472c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1611
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb3b7c35666d4a118ee49a07b92a12d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_48
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1611
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade1408d08f14230b4259dcc8714b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1611
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28526dfaeec44c22b8d6eea529bef04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_50
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1611
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622242055be0f44f2b29a9c698f22829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1611
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b945b68a4048f385387dcfc929559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_52
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1611
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9298143f79584d33bc32f4e4c7339a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_53
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1611
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080383c96105b49f38a2f4fd1a99f5aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1487
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3454a72188274c7ebc0e88498448d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1487
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaedfe808f464965b547a7b9fd98752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1487
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af217686c292421fb728da8728af2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1487
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0c9458a44c4ad2b95bd2d599bd26b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_58
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1487
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ccfbca47e144d82baed7276ce7cd3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_59
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1487
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff01687fd9ddb487ca756d27d05ef7ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1487
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2c01bd1e6f4b16b7d864332053497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_61
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1487
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6258619d2124962a25e2697fa3824d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_62
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1487
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df7af68e24f43728deb07231ae2e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_63
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1487
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f2981b89b7840138b7038bdc80e14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_64
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1487
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0babee674c98741ec86190c0d0cafb91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_65
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1487
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a639e16e50d4c0f9d5801811b3fe29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1363
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9356db17e2e45888d5481cf5096963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1363
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea47b4e380243cbb348303b28bcf99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_68
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1363
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937f447d58484ff0a6e9658b0ddfea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1363
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa277fac4014773949f4424823f01f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1363
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca3a26289cc1412c8c794f5a9332131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1363
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742da6549b4b449f9c8bd608da9392e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_72
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1363
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405e313b42d4e92a338e4dbb321c4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_73
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1363
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932685b6f0cc3414498e5247c04174f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_74
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1363
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e3c68829814af9928637f512723c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_75
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1363
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0bb7746354b438f98f3cab0cd1fcc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_76
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1363
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d94ae51ea174629ae0fa182e29421b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1180
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e1958ed30142dd88934c4b53722c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_78
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1221
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e59eaa94b846bf9acc0aa2efa0979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_79
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1206
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6edd30a55d44f0b38eb4bdb276103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_80
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1169
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf67d2506f8f4567aa632ab2b75c925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1180
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ae9ac1ede64f4e80c54de47f8a773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_82
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1186
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba0f00910b1475b919506248cfc7ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_83
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1209
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8b5a35da17e4005a6c7fa59f1867c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_84
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1243
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867beb7cb951147a08a6428aeef31d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_85
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1215
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35beafdc7bd8144a1858d8da1a632223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_86
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1169
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db380f626a64fb09d4cd2bd4752ce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_87
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1180
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870b0cfa6f564317a02663001053fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_88
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1229
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0abba5a67f4cce8cbb8f953c757b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_89
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1242
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a046d6f70fb476f9969c9db90361d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_90
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1226
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d711a81c5c5944f349b8c0ad8dbf1e7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_91
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1169
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5633c3740426401493749b04553a368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1036
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc34609784c241e7ac3839ff915f972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1036
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62edb9cba11ce4c22a3d355a56283261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_94
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1036
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce099b6847b84f109c9eeee4827831f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_95
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1036
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1f8c6eeb46f4513ab6e0bd9e62ef12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_96
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1036
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be74126e9ea9439fae8028e609746d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_97
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1036
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc82b858b4c9414884fdc9c93a0895f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1036
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d906a029974e7199ea47e63f9a392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_99
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1036
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68128b240541845eaa9c52746ac7ab10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_100
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1036
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208d459a362654d99b3ad95a63e2664d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_101
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1036
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190f1e1e2fda54d5397fd7fae8c5ce00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_102
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1036
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c971dc51de548389902e288903c3d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 906
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695193931c1e445adad3452aac0c99f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_104
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 906
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321473dc9ea0446ffb15a6fbcbdc4853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 906
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4ef8e31b02e40b89ee8e13545a9dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_106
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 906
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51383e266c55e4868946dc63fe4b458f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_107
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 906
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03774c654545423b86a0b0f5493caec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_108
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 906
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46597d23a7b25489db3a12ca0b6a10c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 761
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d2670e9d2946f3b0e15108c43ebf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_110
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 819
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d3707cfcd24caab97f44f9e30f9c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_111
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 776
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdfc0f6d3081464e8c7bb14992e2e27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 742
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1ba39477e547fc93c5b3d6e700e1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_113
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 736
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99fe0198786741c8908d3f9a0addc8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_114
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 733
+        width: 103
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1394c9e40ce99441d9dabcd558f15da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_115
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 732
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e279ef789e3485ba53dd5fbc86fffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_116
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 742
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270f5b1a975240c2b45037181d287f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_117
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 742
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217cb38507c04959843a98a33608d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 609
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47aafdb6013b4178b63dd7fe6e7d724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_119
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 609
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8470a45fafcb446e8023f2551933bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_120
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 609
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610957d7804c54bbe9a14811c649d748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_121
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 632
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658ad8ed3954494d9663bb162f4f0e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_122
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 607
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0f5b8719ba444fb9313fd0f2eeb09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_123
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 595
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f0d0ed329e449f1b1419f69639d1dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_124
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 597
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60634f6c1780a4bd48b0e3c7eb78678f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_125
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 607
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5e6c6391c6410aad6fe68decca0ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_126
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 607
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3acd8c23a4f402181a075345f5ac79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_127
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 598
+        width: 103
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b736ec94a41e146c8a3473969a7a601a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 436
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12ab6934cd84ae7a5a4224ea831692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_129
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 419
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c711768cc934a1cb11134c985b2068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_130
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 426
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d90b2fef90e47309d99c6c666c9790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_131
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 475
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688482619709449a8dbe30d15c7e822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_132
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 495
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a099e4af356ea4a1da381cce9e50d081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_133
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 484
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da92b867949d7479bbe356f0e8c5ed9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_134
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 456
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd5775d1c7944f7a9cac7394ee36628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_135
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 435
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880cde1d365a43aabee802d775844d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_136
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 436
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e69205065174a3b9905c53a4081952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 430
+        width: 87
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29186dda3694abdb2cd0e5d66eab9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 418
+        width: 94
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff288d1fff4fb4f64bcd881695221426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_139
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 403
+        width: 858
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd202dcf2685a466788b76742bd2602c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_140
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 279
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fbdbe6ba641404bab2e49b1e3041cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_141
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 290
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220cdd0837ef4566a638e7338219fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 317
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3560a61a1c0d48a2bf020be69b5b7dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_143
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 278
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18a1086bf4d4a22948c9e8bf033268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_144
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 269
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa141af89916b43eeb4abaf9a1f1d01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_145
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 272
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc04474a51f4848a9f855fa1354e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_146
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 247
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a46cdd9320a49339571735dcb35362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_147
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 227
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb88d13a8ee44926964e07720aec167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36238793228da493fb9021f4c0899941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_149
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 216
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956cd6f07e31b4d3e94a7c50f7f4630e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 206
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8135a33ee2ba40b5b78dc1f3fd40a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_151
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 207
+        width: 103
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71e38169c1148c6b1a665253ab4f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_152
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 210
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a9689354f64096a33e30038127cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_153
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 216
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee44a52a379b4857a32873f23d68b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_154
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 190
+        width: 1014
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3dcf19c77447dfaf4c1f93d77b7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be4e0b019434a56a0d85e7004e6b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_156
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 76
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddbd4a8a6a7043939a2b8587d0856f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_157
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 65
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee4a848a14c409c8bd2185fe8f2623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_158
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 67
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b5ea53bc4d46f59d22b68bd35c92a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_159
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 16
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e68d960c7d85461eb3ea662d45929b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_160
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 16
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293364afa57644b2d9a148351c3cbb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_161
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 16
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca19c63ddbf4f2f95200f7eb4adaeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_162
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 87
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a865161231a26452b8ad7bce5d9d25db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_163
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 78
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba4e2bbf6bac4ca1b230e4ae15d84a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_164
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 87
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804547d08fce2497192c08fd75fcbc92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_165
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 87
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a88f205afc4bf3baf5ad778e057d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_166
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 87
+        width: 51
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d007c33ada32643c08b13cc4b5e5e648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_167
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 87
+        width: 73
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd1fffb05f74ac791b24562612eb3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_168
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 87
+        width: 128
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f1686c12e74aa58f8ba852072b664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_169
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 87
+        width: 128
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9c4cce44444e4ab1990ac592bb013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Cyclops_170
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 87
+        width: 128
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d1a1d4e7734587887b293461f25e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5da51f66a4d2743d4ae45570307f081a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
