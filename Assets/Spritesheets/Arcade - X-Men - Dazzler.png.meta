@@ -1,0 +1,3060 @@
+fileFormatVersion: 2
+guid: 6b3d8d189acd244668c4470a1da86676
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - X-Men - Dazzler_0
+    21300002: Arcade - X-Men - Dazzler_1
+    21300004: Arcade - X-Men - Dazzler_2
+    21300006: Arcade - X-Men - Dazzler_3
+    21300008: Arcade - X-Men - Dazzler_4
+    21300010: Arcade - X-Men - Dazzler_5
+    21300012: Arcade - X-Men - Dazzler_6
+    21300014: Arcade - X-Men - Dazzler_7
+    21300016: Arcade - X-Men - Dazzler_8
+    21300018: Arcade - X-Men - Dazzler_9
+    21300020: Arcade - X-Men - Dazzler_10
+    21300022: Arcade - X-Men - Dazzler_11
+    21300024: Arcade - X-Men - Dazzler_12
+    21300026: Arcade - X-Men - Dazzler_13
+    21300028: Arcade - X-Men - Dazzler_14
+    21300030: Arcade - X-Men - Dazzler_15
+    21300032: Arcade - X-Men - Dazzler_16
+    21300034: Arcade - X-Men - Dazzler_17
+    21300036: Arcade - X-Men - Dazzler_18
+    21300038: Arcade - X-Men - Dazzler_19
+    21300040: Arcade - X-Men - Dazzler_20
+    21300042: Arcade - X-Men - Dazzler_21
+    21300044: Arcade - X-Men - Dazzler_22
+    21300046: Arcade - X-Men - Dazzler_23
+    21300048: Arcade - X-Men - Dazzler_24
+    21300050: Arcade - X-Men - Dazzler_25
+    21300052: Arcade - X-Men - Dazzler_26
+    21300054: Arcade - X-Men - Dazzler_27
+    21300056: Arcade - X-Men - Dazzler_28
+    21300058: Arcade - X-Men - Dazzler_29
+    21300060: Arcade - X-Men - Dazzler_30
+    21300062: Arcade - X-Men - Dazzler_31
+    21300064: Arcade - X-Men - Dazzler_32
+    21300066: Arcade - X-Men - Dazzler_33
+    21300068: Arcade - X-Men - Dazzler_34
+    21300070: Arcade - X-Men - Dazzler_35
+    21300072: Arcade - X-Men - Dazzler_36
+    21300074: Arcade - X-Men - Dazzler_37
+    21300076: Arcade - X-Men - Dazzler_38
+    21300078: Arcade - X-Men - Dazzler_39
+    21300080: Arcade - X-Men - Dazzler_40
+    21300082: Arcade - X-Men - Dazzler_41
+    21300084: Arcade - X-Men - Dazzler_42
+    21300086: Arcade - X-Men - Dazzler_43
+    21300088: Arcade - X-Men - Dazzler_44
+    21300090: Arcade - X-Men - Dazzler_45
+    21300092: Arcade - X-Men - Dazzler_46
+    21300094: Arcade - X-Men - Dazzler_47
+    21300096: Arcade - X-Men - Dazzler_48
+    21300098: Arcade - X-Men - Dazzler_49
+    21300100: Arcade - X-Men - Dazzler_50
+    21300102: Arcade - X-Men - Dazzler_51
+    21300104: Arcade - X-Men - Dazzler_52
+    21300106: Arcade - X-Men - Dazzler_53
+    21300108: Arcade - X-Men - Dazzler_54
+    21300110: Arcade - X-Men - Dazzler_55
+    21300112: Arcade - X-Men - Dazzler_56
+    21300114: Arcade - X-Men - Dazzler_57
+    21300116: Arcade - X-Men - Dazzler_58
+    21300118: Arcade - X-Men - Dazzler_59
+    21300120: Arcade - X-Men - Dazzler_60
+    21300122: Arcade - X-Men - Dazzler_61
+    21300124: Arcade - X-Men - Dazzler_62
+    21300126: Arcade - X-Men - Dazzler_63
+    21300128: Arcade - X-Men - Dazzler_64
+    21300130: Arcade - X-Men - Dazzler_65
+    21300132: Arcade - X-Men - Dazzler_66
+    21300134: Arcade - X-Men - Dazzler_67
+    21300136: Arcade - X-Men - Dazzler_68
+    21300138: Arcade - X-Men - Dazzler_69
+    21300140: Arcade - X-Men - Dazzler_70
+    21300142: Arcade - X-Men - Dazzler_71
+    21300144: Arcade - X-Men - Dazzler_72
+    21300146: Arcade - X-Men - Dazzler_73
+    21300148: Arcade - X-Men - Dazzler_74
+    21300150: Arcade - X-Men - Dazzler_75
+    21300152: Arcade - X-Men - Dazzler_76
+    21300154: Arcade - X-Men - Dazzler_77
+    21300156: Arcade - X-Men - Dazzler_78
+    21300158: Arcade - X-Men - Dazzler_79
+    21300160: Arcade - X-Men - Dazzler_80
+    21300162: Arcade - X-Men - Dazzler_81
+    21300164: Arcade - X-Men - Dazzler_82
+    21300166: Arcade - X-Men - Dazzler_83
+    21300168: Arcade - X-Men - Dazzler_84
+    21300170: Arcade - X-Men - Dazzler_85
+    21300172: Arcade - X-Men - Dazzler_86
+    21300174: Arcade - X-Men - Dazzler_87
+    21300176: Arcade - X-Men - Dazzler_88
+    21300178: Arcade - X-Men - Dazzler_89
+    21300180: Arcade - X-Men - Dazzler_90
+    21300182: Arcade - X-Men - Dazzler_91
+    21300184: Arcade - X-Men - Dazzler_92
+    21300186: Arcade - X-Men - Dazzler_93
+    21300188: Arcade - X-Men - Dazzler_94
+    21300190: Arcade - X-Men - Dazzler_95
+    21300192: Arcade - X-Men - Dazzler_96
+    21300194: Arcade - X-Men - Dazzler_97
+    21300196: Arcade - X-Men - Dazzler_98
+    21300198: Arcade - X-Men - Dazzler_99
+    21300200: Arcade - X-Men - Dazzler_100
+    21300202: Arcade - X-Men - Dazzler_101
+    21300204: Arcade - X-Men - Dazzler_102
+    21300206: Arcade - X-Men - Dazzler_103
+    21300208: Arcade - X-Men - Dazzler_104
+    21300210: Arcade - X-Men - Dazzler_105
+    21300212: Arcade - X-Men - Dazzler_106
+    21300214: Arcade - X-Men - Dazzler_107
+    21300216: Arcade - X-Men - Dazzler_108
+    21300218: Arcade - X-Men - Dazzler_109
+    21300220: Arcade - X-Men - Dazzler_110
+    21300222: Arcade - X-Men - Dazzler_111
+    21300224: Arcade - X-Men - Dazzler_112
+    21300226: Arcade - X-Men - Dazzler_113
+    21300228: Arcade - X-Men - Dazzler_114
+    21300230: Arcade - X-Men - Dazzler_115
+    21300232: Arcade - X-Men - Dazzler_116
+    21300234: Arcade - X-Men - Dazzler_117
+    21300236: Arcade - X-Men - Dazzler_118
+    21300238: Arcade - X-Men - Dazzler_119
+    21300240: Arcade - X-Men - Dazzler_120
+    21300242: Arcade - X-Men - Dazzler_121
+    21300244: Arcade - X-Men - Dazzler_122
+    21300246: Arcade - X-Men - Dazzler_123
+    21300248: Arcade - X-Men - Dazzler_124
+    21300250: Arcade - X-Men - Dazzler_125
+    21300252: Arcade - X-Men - Dazzler_126
+    21300254: Arcade - X-Men - Dazzler_127
+    21300256: Arcade - X-Men - Dazzler_128
+    21300258: Arcade - X-Men - Dazzler_129
+    21300260: Arcade - X-Men - Dazzler_130
+    21300262: Arcade - X-Men - Dazzler_131
+    21300264: Arcade - X-Men - Dazzler_132
+    21300266: Arcade - X-Men - Dazzler_133
+    21300268: Arcade - X-Men - Dazzler_134
+    21300270: Arcade - X-Men - Dazzler_135
+    21300272: Arcade - X-Men - Dazzler_136
+    21300274: Arcade - X-Men - Dazzler_137
+    21300276: Arcade - X-Men - Dazzler_138
+    21300278: Arcade - X-Men - Dazzler_139
+    21300280: Arcade - X-Men - Dazzler_140
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2104
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c64457f81243c9947b2c874a01eca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2104
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4778dca3f4c1f4847afc4b474e9b8b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2104
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8dc162e05be401aaa6d2694faa3b91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2104
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624217afecfcd4822b1a845c4d4ec34c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2104
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae68324acda28498590e9357ffc0fd2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2104
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119816b28a3e1429097447041a952f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2104
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165e807a5fb8b414eb70e4e26d6cf8b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2105
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f992fee103704e61856657e04551c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2107
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a13746393f98499586b542bf57c58ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2104
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043937d25aa344e488732a9db9250860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_10
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2180
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111569a13b99476f9bf50260b359d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2165
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d719359a08584e0680b0e01cb457dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2127
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b605ef101eb804de88df02f86e255192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2124
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da1bffccea564d249662f4d91ad8e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2127
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620cc96be7e134669bf2ec6c1276ddfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2109
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1bc37a3e934cd5b723d8c010ab8de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2109
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c174577f456ad4345b60e65e1e2ee68b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2109
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4b6bd137034b3bb674ef2f0269964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2109
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753582e429fd47e881c7fe14ffa3f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_19
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2109
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aced8ee4b482e4e5ea055a473eba3887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_20
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2109
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8e03d7d650404e81703c5b0cf1d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_21
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2109
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e72be3afd7412ea6751236956afb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_22
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2109
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909876ec2ad074743ac9b7e27514f13b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2091
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44722bc5b9ab40979685b5bce1cb3a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_24
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2091
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e5a799d15ef4c9ebd94f3fc4686559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_25
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2091
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c0c2a70ed7142eaa81f0a1153db000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_26
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2088
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e0c78ad8e84a569f3150d1684b2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2091
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b5a6d9444b34834a9948aafb11e919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_28
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2091
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83d8d4f0173e46258a379fa83f5009e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2000
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a566bc0df0aa4ec2909261af3276da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2002
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50804398d0ca04c97815718d7c7ec470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2003
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7af3b4928f24aae84bda9e86db3e28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2003
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64605b18e38dc40a2bf542a998c42f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2003
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae70188f76214ff28acbbfd5d3b51ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_34
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2003
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f64820dde79c45f2a3205bbce39f947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2001
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5709f3841d1d4cbf8df6bc9e6c392af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_36
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2002
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a3ce2e4f81f4118bf3bbc4016e0144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_37
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2003
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82531b1384ec74afdb675aedc17c8b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_38
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2000
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9d52b63a5b44f3846d1a4715eff76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_39
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1934
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c66a63f221457a8607ad8e591b6e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1866
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63daea000edd4826804c4f433da1e31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1865
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dd450f99bab41e281498e0bbe72686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1867
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637430310d20c447a8bf2eeefb9ad4fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1862
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e5ded3b4afe469b8f1adaa81d2c22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_44
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1848
+        width: 65
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e53f64b5bc3f46a29940a9f5771b8d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1751
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4464da72814fe2ad4285307da7197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1752
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f7d74bf56aa4531b1547df475888ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1756
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f441425f36eb4f75897c5820761a545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1751
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2f18c31fae4d7382ca5586998acc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1628
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e510547d5f416c9cfce1408cf33d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1628
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d58641afef94427b62f5d028db98af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1628
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093f59467eb644016bed94b7fa1232d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1628
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e2fd2601ea4730a3b55a7de70bcb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1628
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824e0886a3ebd4050983c73b9cc3a95d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1512
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8e1a9c5484749cd984cedcf435d940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1512
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcbd8d7b88024cdf83be00418a3cfff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1512
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ecbb7d648654538af6923ad79c0885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1512
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467367ec4839a4fe187299b808a9cee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_58
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1512
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075a1a06a9694e09bda350e8d550321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1392
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd644b4de148f46a2bdc87f78540a77a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1399
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baca952d282444a08cb47421c1db942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1399
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d00a054ca74494fb5fe36b5641ef2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1399
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b084723bdfa0d47a9b91e27d673f8253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_63
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1273
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879867cec79144c0495e5e7f6675f801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1273
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b9daae1c764c14bc50b0cd2653e75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1273
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713c7f9c103b7433094fc261d15c833b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_66
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1188
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91923c318c7404f98efb5210762829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1165
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd1f151324544fb9e6425e1a504bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_68
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1165
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d933a0c911f44cdb1379c63459e033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_69
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1165
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90d9986d8594255a5bf284b0851bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1165
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aa87a5b441c4dcf8d4b793f58ea6e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1165
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338319bd0a98e4779aff80f406cc09e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_72
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1165
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173abba638cd3476c8a48719ea2a3666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_73
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1189
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a3bde544d341babd7e09ccc801ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_74
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1181
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad0e400af2584d63bf9edc07d2eb57b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_75
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1029
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ed18f8c8f54526a31f1a4c67c2158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1029
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0985792d49c0a4092b74ed840dd4a0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_77
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1029
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c014aeea39a4e41a7fe58efc82e252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1029
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316f78192c558417c8b77c96e253e54d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_79
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1029
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef011077a697a4cc0b81650b89ac5f8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_80
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1041
+        width: 96
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e994e578cb64f37bc915fa449273fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_81
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1029
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0490c42d3c2e14032a9fce011b8196c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_82
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1029
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff526eb1a56c2418aba3aa15eafc4c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_83
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1069
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8cfd525ee6e4aada5ffff4245655fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_84
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 917
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590c87f56d67046ca81340a4262be125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 917
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510620893280842709ff2c1f53c72cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 917
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c257808a366a54e45b34c2b79864b771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_87
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 923
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbdffa7ca2064938aff5f7b676ac154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 920
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e17c66f49d44f9aff0b8861eb07db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_89
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 922
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776699243a4e24810bf174902d87b1f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 758
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411322c8abd8d4ef986366a4b8ac2a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_91
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 758
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef919a721bfbd4e3c86dd32805c490e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 758
+        width: 67
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa5eb141bffb4c9ba2bc68903750f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_93
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 757
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b609bd0c97b54664ba59ea213c9e7c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_94
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 851
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ef712fffaa1415c8804fe9e6f63721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_95
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 850
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a4151d034ad45a6900e34c998d5e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_96
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 758
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2118b591b523408caa9cd40fe5f7d26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_97
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 757
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8442f8d8704d9450786736e1d246fffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_98
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 757
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1642f094099ba47e5bda86b42c1e87a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_99
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 822
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45ce36643ab4bb996b54139a006174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_100
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 769
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805a35f1b4e14c45be9b1e1d70fb382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_101
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 769
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef52ccd58cf4945aaa20eaae3216a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_102
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 789
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c116b6ebb34a44878428b09a192f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_103
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 753
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f733e4e63e2e4e4cb09ab50235c53f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_104
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 538
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fc824bc67fa472d8d56d00339f2292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_105
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 538
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d03fa8236a444ff58a996abd4b5163a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 538
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11aa5db749345d4abe5b921c343cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 538
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27687b6beedc043cd9c016e46f8207ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_108
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 538
+        width: 163
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdc4129dad9434b8b3041374262ab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_109
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 407
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405e522a12aa843429d439249660a6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_110
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 409
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981956ee80994fb2a13c647ecd0aae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_111
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 418
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e6ff73abed4130a9b4c1c78a51909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_112
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 435
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426bbe050d87d4412a27a6e0223519c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_113
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 419
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0437201fa10cf4bb5ad0f6b626723bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 414
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2cfc148b64440488782c78078971ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_115
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 413
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c3dd8f21ca44b9b38efd6f6b1c01c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_116
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 414
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b2a3828fd34064adc77a7cf847bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_117
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 284
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf961b13749e340fbb38fb6970501859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 285
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed045fc8293fa43d49ea8c975087fc91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_119
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 282
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8331cbf2b8d4a3fb5f3eb539645bfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_120
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 286
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e13db5fbe14d39bf827091ef2e5f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_121
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 291
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3402af6ed5034a2d87008ed6ce82835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_122
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 278
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6becf5893d6ac4584a508e8b5b82a250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_123
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 277
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda8d6b122434d5185867143d2d009e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_124
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 281
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b688a1eb982478c9ed893282d71e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_125
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 276
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5328b6901b442198334c79d71aa7ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_126
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 149
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a8ad9fc8a544ffab91e06e90b08a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_127
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 172
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1195606b674d42098cd20d152b15e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_128
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 175
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b5dc436da7e4a049a949d18436c1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_129
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 155
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7196c8994dcc9416fb84768054d2684b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_130
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 160
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505f31e853f364ac38ec0541446f4678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_131
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 154
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f88b0edfec4681a8b3b3f235fd764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_132
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 157
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88fced1e768c47f29e4fee3cff2a976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_133
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 144
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff93978aa1e424235b135cb0031a0780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_134
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf755fdcb9864d35a629bf0da0ff190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_135
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 86
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a53e95316104c6d855cab01365b477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_136
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 25
+        width: 103
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d856ddcaa7485b89c42812009a964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_137
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 28
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f370c6f5174706a834fab42705410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_138
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 21
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfe082c5d034451935e74bd4bb5f0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_139
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 24
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dda4cbbf5a2490ea842d1eeb2a507a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Dazzler_140
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 26
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3cfef597924b5ebc2dd638afe6f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 524e3163d72214f05ad6313a423fb54e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
