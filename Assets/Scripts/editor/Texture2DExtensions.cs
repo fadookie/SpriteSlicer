@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 // Based on https://answers.unity.com/questions/683772/export-sprite-sheets.html
- 
+
 static class Texture2DExtensions
 {
     /**
@@ -30,29 +31,35 @@ static class Texture2DExtensions
         if (width <= 0 || height <= 0) {
             return null;
         }
- 
-        Color[] aSourceColor = pSource.GetPixels(0);
- 
-        //*** Make New
-        Texture2D oNewTex = new Texture2D(width, height, TextureFormat.RGBA32, false);
-         
-        //*** Make destination array
-        int xLength = width * height;
-        Color[] aColor = new Color[xLength];
- 
-        int i = 0;
-        for (int y = 0; y < height; y++) {
-            int sourceIndex = (y + top) * pSource.width + left;
-            for ( int x = 0; x < width; x++ ) {
-                aColor[ i++ ] = aSourceColor[ sourceIndex++ ];
+
+        try {
+
+            Color[] aSourceColor = pSource.GetPixels(0);
+
+            //*** Make New
+            Texture2D oNewTex = new Texture2D(width, height, TextureFormat.RGBA32, false);
+            
+            //*** Make destination array
+            int xLength = width * height;
+            Color[] aColor = new Color[xLength];
+    
+            int i = 0;
+            for (int y = 0; y < height; y++) {
+                int sourceIndex = (y + top) * pSource.width + left;
+                for ( int x = 0; x < width; x++ ) {
+                    aColor[ i++ ] = aSourceColor[ sourceIndex++ ];
+                }
             }
+            
+            //*** Set Pixels
+            oNewTex.SetPixels(aColor);
+            oNewTex.Apply();
+
+            //*** Return
+            return oNewTex;
+         
+        } catch (ArgumentException){
+            return null;
         }
-         
-        //*** Set Pixels
-        oNewTex.SetPixels(aColor);
-        oNewTex.Apply();
-         
-        //*** Return
-        return oNewTex;
     }
 }

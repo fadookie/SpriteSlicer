@@ -47,10 +47,15 @@ public class SpriteTextureSliceExporter : ScriptableObject
                 var tex = sprite.texture;
                 var r = sprite.textureRect;
                 var subtex = tex.CropTexture( (int)r.x, (int)r.y, (int)r.width, (int)r.height );
-                var data = subtex.EncodeToPNG();
-                var outPath = $"{outputDirectory}/{sprite.name}.png";
-                File.WriteAllBytes(outPath, data);
-                Debug.Log($"Wrote to '{outPath}'");
+                if (subtex != null) {
+                    var data = subtex.EncodeToPNG();
+                    var outPath = $"{outputDirectory}/{sprite.name}.png";
+                    File.WriteAllBytes(outPath, data);
+                    Debug.Log($"Wrote to '{outPath}'");
+                } else {
+                    Debug.LogError("Failed to export sprites. Please ensure sprite import settings are correct - see README.md");
+                    return;
+                }
             }
         }
     }
