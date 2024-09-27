@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 using System;
 
 // Based on https://answers.unity.com/questions/683772/export-sprite-sheets.html

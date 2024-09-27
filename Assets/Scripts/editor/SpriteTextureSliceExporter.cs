@@ -62,7 +62,11 @@ public class SpriteTextureSliceExporter : ScriptableObject
     
     [MenuItem("SpriteTextureSliceExporter/Export Slices", true)]
     public static bool ExportSlicesValidation() {
-        return Selection.activeObject as Texture2D != null;
+        if(Selection.activeObject as Texture2D != null){
+            TextureImporter textureImporter = AssetImporter.GetAtPath(AssetDatabase.GetAssetPath(Selection.activeObject)) as TextureImporter;
+            return textureImporter.textureType == TextureImporterType.Sprite;
+        }
+        return false;
     }
 
 }
