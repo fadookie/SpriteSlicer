@@ -24,8 +24,14 @@ Each texture you want to use should have the following import settings:
 ### Export Steps
 1. Slice your spritesheets using the [Sprite Editor](https://docs.unity3d.com/Manual/SpriteEditor.html).
 	* I recommend using the automatic slicing feature and then tweaking if needed.
-3. From the main menu bar, click `SpriteTextureSliceExporter` → `Export Slices`.
+3. From the main menu bar, click `SpriteTextureSliceExporter` → `Export Slices`. (You can also use `Export Slices` from the context menu.)
 	* I wanted this to be in the context menu as well but couldn't get it working. If you can figure this out please send a PR! 
 4. Choose a folder to export images to.
 
 Note: I have not tested this on atlases, only spritesheets attached to individual sprite assets as described above.
+
+# Credits
+* [Eliot Lash](https://www.eliotlash.com) - Original author
+* [James Hughes](https://github.com/james1997hughes) - Context menu, error messaging improvements
+
+Note that the MIT License applies to the code in this repo only and not the spritesheets themselves which are only provided for demo purposes.
