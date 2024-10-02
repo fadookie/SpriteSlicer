@@ -47,17 +47,26 @@ public class SpriteTextureSliceExporter : ScriptableObject
                 var tex = sprite.texture;
                 var r = sprite.textureRect;
                 var subtex = tex.CropTexture( (int)r.x, (int)r.y, (int)r.width, (int)r.height );
-                var data = subtex.EncodeToPNG();
-                var outPath = $"{outputDirectory}/{sprite.name}.png";
-                File.WriteAllBytes(outPath, data);
-                Debug.Log($"Wrote to '{outPath}'");
+                if (subtex != null) {
+                    var data = subtex.EncodeToPNG();
+                    var outPath = $"{outputDirectory}/{sprite.name}.png";
+                    File.WriteAllBytes(outPath, data);
+                    Debug.Log($"Wrote to '{outPath}'");
+                } else {
+                    Debug.LogError("Failed to export sprites. Please ensure sprite import settings are correct - see README.md");
+                    return;
+                }
             }
         }
     }
     
     [MenuItem("SpriteTextureSliceExporter/Export Slices", true)]
     public static bool ExportSlicesValidation() {
-        return Selection.activeObject as Texture2D != null;
+        if(Selection.activeObject as Texture2D != null){
+            TextureImporter textureImporter = AssetImporter.GetAtPath(AssetDatabase.GetAssetPath(Selection.activeObject)) as TextureImporter;
+            return textureImporter.textureType == TextureImporterType.Sprite;
+        }
+        return false;
     }
 
 }
