@@ -1,180 +1,522 @@
 fileFormatVersion: 2
 guid: c1da3d189a82b429b9a69001182e3e3b
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Arcade - X-Men - Cyclops_0
-    21300002: Arcade - X-Men - Cyclops_1
-    21300004: Arcade - X-Men - Cyclops_2
-    21300006: Arcade - X-Men - Cyclops_3
-    21300008: Arcade - X-Men - Cyclops_4
-    21300010: Arcade - X-Men - Cyclops_5
-    21300012: Arcade - X-Men - Cyclops_6
-    21300014: Arcade - X-Men - Cyclops_7
-    21300016: Arcade - X-Men - Cyclops_8
-    21300018: Arcade - X-Men - Cyclops_9
-    21300020: Arcade - X-Men - Cyclops_10
-    21300022: Arcade - X-Men - Cyclops_11
-    21300024: Arcade - X-Men - Cyclops_12
-    21300026: Arcade - X-Men - Cyclops_13
-    21300028: Arcade - X-Men - Cyclops_14
-    21300030: Arcade - X-Men - Cyclops_15
-    21300032: Arcade - X-Men - Cyclops_16
-    21300034: Arcade - X-Men - Cyclops_17
-    21300036: Arcade - X-Men - Cyclops_18
-    21300038: Arcade - X-Men - Cyclops_19
-    21300040: Arcade - X-Men - Cyclops_20
-    21300042: Arcade - X-Men - Cyclops_21
-    21300044: Arcade - X-Men - Cyclops_22
-    21300046: Arcade - X-Men - Cyclops_23
-    21300048: Arcade - X-Men - Cyclops_24
-    21300050: Arcade - X-Men - Cyclops_25
-    21300052: Arcade - X-Men - Cyclops_26
-    21300054: Arcade - X-Men - Cyclops_27
-    21300056: Arcade - X-Men - Cyclops_28
-    21300058: Arcade - X-Men - Cyclops_29
-    21300060: Arcade - X-Men - Cyclops_30
-    21300062: Arcade - X-Men - Cyclops_31
-    21300064: Arcade - X-Men - Cyclops_32
-    21300066: Arcade - X-Men - Cyclops_33
-    21300068: Arcade - X-Men - Cyclops_34
-    21300070: Arcade - X-Men - Cyclops_35
-    21300072: Arcade - X-Men - Cyclops_36
-    21300074: Arcade - X-Men - Cyclops_37
-    21300076: Arcade - X-Men - Cyclops_38
-    21300078: Arcade - X-Men - Cyclops_39
-    21300080: Arcade - X-Men - Cyclops_40
-    21300082: Arcade - X-Men - Cyclops_41
-    21300084: Arcade - X-Men - Cyclops_42
-    21300086: Arcade - X-Men - Cyclops_43
-    21300088: Arcade - X-Men - Cyclops_44
-    21300090: Arcade - X-Men - Cyclops_45
-    21300092: Arcade - X-Men - Cyclops_46
-    21300094: Arcade - X-Men - Cyclops_47
-    21300096: Arcade - X-Men - Cyclops_48
-    21300098: Arcade - X-Men - Cyclops_49
-    21300100: Arcade - X-Men - Cyclops_50
-    21300102: Arcade - X-Men - Cyclops_51
-    21300104: Arcade - X-Men - Cyclops_52
-    21300106: Arcade - X-Men - Cyclops_53
-    21300108: Arcade - X-Men - Cyclops_54
-    21300110: Arcade - X-Men - Cyclops_55
-    21300112: Arcade - X-Men - Cyclops_56
-    21300114: Arcade - X-Men - Cyclops_57
-    21300116: Arcade - X-Men - Cyclops_58
-    21300118: Arcade - X-Men - Cyclops_59
-    21300120: Arcade - X-Men - Cyclops_60
-    21300122: Arcade - X-Men - Cyclops_61
-    21300124: Arcade - X-Men - Cyclops_62
-    21300126: Arcade - X-Men - Cyclops_63
-    21300128: Arcade - X-Men - Cyclops_64
-    21300130: Arcade - X-Men - Cyclops_65
-    21300132: Arcade - X-Men - Cyclops_66
-    21300134: Arcade - X-Men - Cyclops_67
-    21300136: Arcade - X-Men - Cyclops_68
-    21300138: Arcade - X-Men - Cyclops_69
-    21300140: Arcade - X-Men - Cyclops_70
-    21300142: Arcade - X-Men - Cyclops_71
-    21300144: Arcade - X-Men - Cyclops_72
-    21300146: Arcade - X-Men - Cyclops_73
-    21300148: Arcade - X-Men - Cyclops_74
-    21300150: Arcade - X-Men - Cyclops_75
-    21300152: Arcade - X-Men - Cyclops_76
-    21300154: Arcade - X-Men - Cyclops_77
-    21300156: Arcade - X-Men - Cyclops_78
-    21300158: Arcade - X-Men - Cyclops_79
-    21300160: Arcade - X-Men - Cyclops_80
-    21300162: Arcade - X-Men - Cyclops_81
-    21300164: Arcade - X-Men - Cyclops_82
-    21300166: Arcade - X-Men - Cyclops_83
-    21300168: Arcade - X-Men - Cyclops_84
-    21300170: Arcade - X-Men - Cyclops_85
-    21300172: Arcade - X-Men - Cyclops_86
-    21300174: Arcade - X-Men - Cyclops_87
-    21300176: Arcade - X-Men - Cyclops_88
-    21300178: Arcade - X-Men - Cyclops_89
-    21300180: Arcade - X-Men - Cyclops_90
-    21300182: Arcade - X-Men - Cyclops_91
-    21300184: Arcade - X-Men - Cyclops_92
-    21300186: Arcade - X-Men - Cyclops_93
-    21300188: Arcade - X-Men - Cyclops_94
-    21300190: Arcade - X-Men - Cyclops_95
-    21300192: Arcade - X-Men - Cyclops_96
-    21300194: Arcade - X-Men - Cyclops_97
-    21300196: Arcade - X-Men - Cyclops_98
-    21300198: Arcade - X-Men - Cyclops_99
-    21300200: Arcade - X-Men - Cyclops_100
-    21300202: Arcade - X-Men - Cyclops_101
-    21300204: Arcade - X-Men - Cyclops_102
-    21300206: Arcade - X-Men - Cyclops_103
-    21300208: Arcade - X-Men - Cyclops_104
-    21300210: Arcade - X-Men - Cyclops_105
-    21300212: Arcade - X-Men - Cyclops_106
-    21300214: Arcade - X-Men - Cyclops_107
-    21300216: Arcade - X-Men - Cyclops_108
-    21300218: Arcade - X-Men - Cyclops_109
-    21300220: Arcade - X-Men - Cyclops_110
-    21300222: Arcade - X-Men - Cyclops_111
-    21300224: Arcade - X-Men - Cyclops_112
-    21300226: Arcade - X-Men - Cyclops_113
-    21300228: Arcade - X-Men - Cyclops_114
-    21300230: Arcade - X-Men - Cyclops_115
-    21300232: Arcade - X-Men - Cyclops_116
-    21300234: Arcade - X-Men - Cyclops_117
-    21300236: Arcade - X-Men - Cyclops_118
-    21300238: Arcade - X-Men - Cyclops_119
-    21300240: Arcade - X-Men - Cyclops_120
-    21300242: Arcade - X-Men - Cyclops_121
-    21300244: Arcade - X-Men - Cyclops_122
-    21300246: Arcade - X-Men - Cyclops_123
-    21300248: Arcade - X-Men - Cyclops_124
-    21300250: Arcade - X-Men - Cyclops_125
-    21300252: Arcade - X-Men - Cyclops_126
-    21300254: Arcade - X-Men - Cyclops_127
-    21300256: Arcade - X-Men - Cyclops_128
-    21300258: Arcade - X-Men - Cyclops_129
-    21300260: Arcade - X-Men - Cyclops_130
-    21300262: Arcade - X-Men - Cyclops_131
-    21300264: Arcade - X-Men - Cyclops_132
-    21300266: Arcade - X-Men - Cyclops_133
-    21300268: Arcade - X-Men - Cyclops_134
-    21300270: Arcade - X-Men - Cyclops_135
-    21300272: Arcade - X-Men - Cyclops_136
-    21300274: Arcade - X-Men - Cyclops_137
-    21300276: Arcade - X-Men - Cyclops_138
-    21300278: Arcade - X-Men - Cyclops_139
-    21300280: Arcade - X-Men - Cyclops_140
-    21300282: Arcade - X-Men - Cyclops_141
-    21300284: Arcade - X-Men - Cyclops_142
-    21300286: Arcade - X-Men - Cyclops_143
-    21300288: Arcade - X-Men - Cyclops_144
-    21300290: Arcade - X-Men - Cyclops_145
-    21300292: Arcade - X-Men - Cyclops_146
-    21300294: Arcade - X-Men - Cyclops_147
-    21300296: Arcade - X-Men - Cyclops_148
-    21300298: Arcade - X-Men - Cyclops_149
-    21300300: Arcade - X-Men - Cyclops_150
-    21300302: Arcade - X-Men - Cyclops_151
-    21300304: Arcade - X-Men - Cyclops_152
-    21300306: Arcade - X-Men - Cyclops_153
-    21300308: Arcade - X-Men - Cyclops_154
-    21300310: Arcade - X-Men - Cyclops_155
-    21300312: Arcade - X-Men - Cyclops_156
-    21300314: Arcade - X-Men - Cyclops_157
-    21300316: Arcade - X-Men - Cyclops_158
-    21300318: Arcade - X-Men - Cyclops_159
-    21300320: Arcade - X-Men - Cyclops_160
-    21300322: Arcade - X-Men - Cyclops_161
-    21300324: Arcade - X-Men - Cyclops_162
-    21300326: Arcade - X-Men - Cyclops_163
-    21300328: Arcade - X-Men - Cyclops_164
-    21300330: Arcade - X-Men - Cyclops_165
-    21300332: Arcade - X-Men - Cyclops_166
-    21300334: Arcade - X-Men - Cyclops_167
-    21300336: Arcade - X-Men - Cyclops_168
-    21300338: Arcade - X-Men - Cyclops_169
-    21300340: Arcade - X-Men - Cyclops_170
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Arcade - X-Men - Cyclops_0
+  - first:
+      213: 21300002
+    second: Arcade - X-Men - Cyclops_1
+  - first:
+      213: 21300004
+    second: Arcade - X-Men - Cyclops_2
+  - first:
+      213: 21300006
+    second: Arcade - X-Men - Cyclops_3
+  - first:
+      213: 21300008
+    second: Arcade - X-Men - Cyclops_4
+  - first:
+      213: 21300010
+    second: Arcade - X-Men - Cyclops_5
+  - first:
+      213: 21300012
+    second: Arcade - X-Men - Cyclops_6
+  - first:
+      213: 21300014
+    second: Arcade - X-Men - Cyclops_7
+  - first:
+      213: 21300016
+    second: Arcade - X-Men - Cyclops_8
+  - first:
+      213: 21300018
+    second: Arcade - X-Men - Cyclops_9
+  - first:
+      213: 21300020
+    second: Arcade - X-Men - Cyclops_10
+  - first:
+      213: 21300022
+    second: Arcade - X-Men - Cyclops_11
+  - first:
+      213: 21300024
+    second: Arcade - X-Men - Cyclops_12
+  - first:
+      213: 21300026
+    second: Arcade - X-Men - Cyclops_13
+  - first:
+      213: 21300028
+    second: Arcade - X-Men - Cyclops_14
+  - first:
+      213: 21300030
+    second: Arcade - X-Men - Cyclops_15
+  - first:
+      213: 21300032
+    second: Arcade - X-Men - Cyclops_16
+  - first:
+      213: 21300034
+    second: Arcade - X-Men - Cyclops_17
+  - first:
+      213: 21300036
+    second: Arcade - X-Men - Cyclops_18
+  - first:
+      213: 21300038
+    second: Arcade - X-Men - Cyclops_19
+  - first:
+      213: 21300040
+    second: Arcade - X-Men - Cyclops_20
+  - first:
+      213: 21300042
+    second: Arcade - X-Men - Cyclops_21
+  - first:
+      213: 21300044
+    second: Arcade - X-Men - Cyclops_22
+  - first:
+      213: 21300046
+    second: Arcade - X-Men - Cyclops_23
+  - first:
+      213: 21300048
+    second: Arcade - X-Men - Cyclops_24
+  - first:
+      213: 21300050
+    second: Arcade - X-Men - Cyclops_25
+  - first:
+      213: 21300052
+    second: Arcade - X-Men - Cyclops_26
+  - first:
+      213: 21300054
+    second: Arcade - X-Men - Cyclops_27
+  - first:
+      213: 21300056
+    second: Arcade - X-Men - Cyclops_28
+  - first:
+      213: 21300058
+    second: Arcade - X-Men - Cyclops_29
+  - first:
+      213: 21300060
+    second: Arcade - X-Men - Cyclops_30
+  - first:
+      213: 21300062
+    second: Arcade - X-Men - Cyclops_31
+  - first:
+      213: 21300064
+    second: Arcade - X-Men - Cyclops_32
+  - first:
+      213: 21300066
+    second: Arcade - X-Men - Cyclops_33
+  - first:
+      213: 21300068
+    second: Arcade - X-Men - Cyclops_34
+  - first:
+      213: 21300070
+    second: Arcade - X-Men - Cyclops_35
+  - first:
+      213: 21300072
+    second: Arcade - X-Men - Cyclops_36
+  - first:
+      213: 21300074
+    second: Arcade - X-Men - Cyclops_37
+  - first:
+      213: 21300076
+    second: Arcade - X-Men - Cyclops_38
+  - first:
+      213: 21300078
+    second: Arcade - X-Men - Cyclops_39
+  - first:
+      213: 21300080
+    second: Arcade - X-Men - Cyclops_40
+  - first:
+      213: 21300082
+    second: Arcade - X-Men - Cyclops_41
+  - first:
+      213: 21300084
+    second: Arcade - X-Men - Cyclops_42
+  - first:
+      213: 21300086
+    second: Arcade - X-Men - Cyclops_43
+  - first:
+      213: 21300088
+    second: Arcade - X-Men - Cyclops_44
+  - first:
+      213: 21300090
+    second: Arcade - X-Men - Cyclops_45
+  - first:
+      213: 21300092
+    second: Arcade - X-Men - Cyclops_46
+  - first:
+      213: 21300094
+    second: Arcade - X-Men - Cyclops_47
+  - first:
+      213: 21300096
+    second: Arcade - X-Men - Cyclops_48
+  - first:
+      213: 21300098
+    second: Arcade - X-Men - Cyclops_49
+  - first:
+      213: 21300100
+    second: Arcade - X-Men - Cyclops_50
+  - first:
+      213: 21300102
+    second: Arcade - X-Men - Cyclops_51
+  - first:
+      213: 21300104
+    second: Arcade - X-Men - Cyclops_52
+  - first:
+      213: 21300106
+    second: Arcade - X-Men - Cyclops_53
+  - first:
+      213: 21300108
+    second: Arcade - X-Men - Cyclops_54
+  - first:
+      213: 21300110
+    second: Arcade - X-Men - Cyclops_55
+  - first:
+      213: 21300112
+    second: Arcade - X-Men - Cyclops_56
+  - first:
+      213: 21300114
+    second: Arcade - X-Men - Cyclops_57
+  - first:
+      213: 21300116
+    second: Arcade - X-Men - Cyclops_58
+  - first:
+      213: 21300118
+    second: Arcade - X-Men - Cyclops_59
+  - first:
+      213: 21300120
+    second: Arcade - X-Men - Cyclops_60
+  - first:
+      213: 21300122
+    second: Arcade - X-Men - Cyclops_61
+  - first:
+      213: 21300124
+    second: Arcade - X-Men - Cyclops_62
+  - first:
+      213: 21300126
+    second: Arcade - X-Men - Cyclops_63
+  - first:
+      213: 21300128
+    second: Arcade - X-Men - Cyclops_64
+  - first:
+      213: 21300130
+    second: Arcade - X-Men - Cyclops_65
+  - first:
+      213: 21300132
+    second: Arcade - X-Men - Cyclops_66
+  - first:
+      213: 21300134
+    second: Arcade - X-Men - Cyclops_67
+  - first:
+      213: 21300136
+    second: Arcade - X-Men - Cyclops_68
+  - first:
+      213: 21300138
+    second: Arcade - X-Men - Cyclops_69
+  - first:
+      213: 21300140
+    second: Arcade - X-Men - Cyclops_70
+  - first:
+      213: 21300142
+    second: Arcade - X-Men - Cyclops_71
+  - first:
+      213: 21300144
+    second: Arcade - X-Men - Cyclops_72
+  - first:
+      213: 21300146
+    second: Arcade - X-Men - Cyclops_73
+  - first:
+      213: 21300148
+    second: Arcade - X-Men - Cyclops_74
+  - first:
+      213: 21300150
+    second: Arcade - X-Men - Cyclops_75
+  - first:
+      213: 21300152
+    second: Arcade - X-Men - Cyclops_76
+  - first:
+      213: 21300154
+    second: Arcade - X-Men - Cyclops_77
+  - first:
+      213: 21300156
+    second: Arcade - X-Men - Cyclops_78
+  - first:
+      213: 21300158
+    second: Arcade - X-Men - Cyclops_79
+  - first:
+      213: 21300160
+    second: Arcade - X-Men - Cyclops_80
+  - first:
+      213: 21300162
+    second: Arcade - X-Men - Cyclops_81
+  - first:
+      213: 21300164
+    second: Arcade - X-Men - Cyclops_82
+  - first:
+      213: 21300166
+    second: Arcade - X-Men - Cyclops_83
+  - first:
+      213: 21300168
+    second: Arcade - X-Men - Cyclops_84
+  - first:
+      213: 21300170
+    second: Arcade - X-Men - Cyclops_85
+  - first:
+      213: 21300172
+    second: Arcade - X-Men - Cyclops_86
+  - first:
+      213: 21300174
+    second: Arcade - X-Men - Cyclops_87
+  - first:
+      213: 21300176
+    second: Arcade - X-Men - Cyclops_88
+  - first:
+      213: 21300178
+    second: Arcade - X-Men - Cyclops_89
+  - first:
+      213: 21300180
+    second: Arcade - X-Men - Cyclops_90
+  - first:
+      213: 21300182
+    second: Arcade - X-Men - Cyclops_91
+  - first:
+      213: 21300184
+    second: Arcade - X-Men - Cyclops_92
+  - first:
+      213: 21300186
+    second: Arcade - X-Men - Cyclops_93
+  - first:
+      213: 21300188
+    second: Arcade - X-Men - Cyclops_94
+  - first:
+      213: 21300190
+    second: Arcade - X-Men - Cyclops_95
+  - first:
+      213: 21300192
+    second: Arcade - X-Men - Cyclops_96
+  - first:
+      213: 21300194
+    second: Arcade - X-Men - Cyclops_97
+  - first:
+      213: 21300196
+    second: Arcade - X-Men - Cyclops_98
+  - first:
+      213: 21300198
+    second: Arcade - X-Men - Cyclops_99
+  - first:
+      213: 21300200
+    second: Arcade - X-Men - Cyclops_100
+  - first:
+      213: 21300202
+    second: Arcade - X-Men - Cyclops_101
+  - first:
+      213: 21300204
+    second: Arcade - X-Men - Cyclops_102
+  - first:
+      213: 21300206
+    second: Arcade - X-Men - Cyclops_103
+  - first:
+      213: 21300208
+    second: Arcade - X-Men - Cyclops_104
+  - first:
+      213: 21300210
+    second: Arcade - X-Men - Cyclops_105
+  - first:
+      213: 21300212
+    second: Arcade - X-Men - Cyclops_106
+  - first:
+      213: 21300214
+    second: Arcade - X-Men - Cyclops_107
+  - first:
+      213: 21300216
+    second: Arcade - X-Men - Cyclops_108
+  - first:
+      213: 21300218
+    second: Arcade - X-Men - Cyclops_109
+  - first:
+      213: 21300220
+    second: Arcade - X-Men - Cyclops_110
+  - first:
+      213: 21300222
+    second: Arcade - X-Men - Cyclops_111
+  - first:
+      213: 21300224
+    second: Arcade - X-Men - Cyclops_112
+  - first:
+      213: 21300226
+    second: Arcade - X-Men - Cyclops_113
+  - first:
+      213: 21300228
+    second: Arcade - X-Men - Cyclops_114
+  - first:
+      213: 21300230
+    second: Arcade - X-Men - Cyclops_115
+  - first:
+      213: 21300232
+    second: Arcade - X-Men - Cyclops_116
+  - first:
+      213: 21300234
+    second: Arcade - X-Men - Cyclops_117
+  - first:
+      213: 21300236
+    second: Arcade - X-Men - Cyclops_118
+  - first:
+      213: 21300238
+    second: Arcade - X-Men - Cyclops_119
+  - first:
+      213: 21300240
+    second: Arcade - X-Men - Cyclops_120
+  - first:
+      213: 21300242
+    second: Arcade - X-Men - Cyclops_121
+  - first:
+      213: 21300244
+    second: Arcade - X-Men - Cyclops_122
+  - first:
+      213: 21300246
+    second: Arcade - X-Men - Cyclops_123
+  - first:
+      213: 21300248
+    second: Arcade - X-Men - Cyclops_124
+  - first:
+      213: 21300250
+    second: Arcade - X-Men - Cyclops_125
+  - first:
+      213: 21300252
+    second: Arcade - X-Men - Cyclops_126
+  - first:
+      213: 21300254
+    second: Arcade - X-Men - Cyclops_127
+  - first:
+      213: 21300256
+    second: Arcade - X-Men - Cyclops_128
+  - first:
+      213: 21300258
+    second: Arcade - X-Men - Cyclops_129
+  - first:
+      213: 21300260
+    second: Arcade - X-Men - Cyclops_130
+  - first:
+      213: 21300262
+    second: Arcade - X-Men - Cyclops_131
+  - first:
+      213: 21300264
+    second: Arcade - X-Men - Cyclops_132
+  - first:
+      213: 21300266
+    second: Arcade - X-Men - Cyclops_133
+  - first:
+      213: 21300268
+    second: Arcade - X-Men - Cyclops_134
+  - first:
+      213: 21300270
+    second: Arcade - X-Men - Cyclops_135
+  - first:
+      213: 21300272
+    second: Arcade - X-Men - Cyclops_136
+  - first:
+      213: 21300274
+    second: Arcade - X-Men - Cyclops_137
+  - first:
+      213: 21300276
+    second: Arcade - X-Men - Cyclops_138
+  - first:
+      213: 21300278
+    second: Arcade - X-Men - Cyclops_139
+  - first:
+      213: 21300280
+    second: Arcade - X-Men - Cyclops_140
+  - first:
+      213: 21300282
+    second: Arcade - X-Men - Cyclops_141
+  - first:
+      213: 21300284
+    second: Arcade - X-Men - Cyclops_142
+  - first:
+      213: 21300286
+    second: Arcade - X-Men - Cyclops_143
+  - first:
+      213: 21300288
+    second: Arcade - X-Men - Cyclops_144
+  - first:
+      213: 21300290
+    second: Arcade - X-Men - Cyclops_145
+  - first:
+      213: 21300292
+    second: Arcade - X-Men - Cyclops_146
+  - first:
+      213: 21300294
+    second: Arcade - X-Men - Cyclops_147
+  - first:
+      213: 21300296
+    second: Arcade - X-Men - Cyclops_148
+  - first:
+      213: 21300298
+    second: Arcade - X-Men - Cyclops_149
+  - first:
+      213: 21300300
+    second: Arcade - X-Men - Cyclops_150
+  - first:
+      213: 21300302
+    second: Arcade - X-Men - Cyclops_151
+  - first:
+      213: 21300304
+    second: Arcade - X-Men - Cyclops_152
+  - first:
+      213: 21300306
+    second: Arcade - X-Men - Cyclops_153
+  - first:
+      213: 21300308
+    second: Arcade - X-Men - Cyclops_154
+  - first:
+      213: 21300310
+    second: Arcade - X-Men - Cyclops_155
+  - first:
+      213: 21300312
+    second: Arcade - X-Men - Cyclops_156
+  - first:
+      213: 21300314
+    second: Arcade - X-Men - Cyclops_157
+  - first:
+      213: 21300316
+    second: Arcade - X-Men - Cyclops_158
+  - first:
+      213: 21300318
+    second: Arcade - X-Men - Cyclops_159
+  - first:
+      213: 21300320
+    second: Arcade - X-Men - Cyclops_160
+  - first:
+      213: 21300322
+    second: Arcade - X-Men - Cyclops_161
+  - first:
+      213: 21300324
+    second: Arcade - X-Men - Cyclops_162
+  - first:
+      213: 21300326
+    second: Arcade - X-Men - Cyclops_163
+  - first:
+      213: 21300328
+    second: Arcade - X-Men - Cyclops_164
+  - first:
+      213: 21300330
+    second: Arcade - X-Men - Cyclops_165
+  - first:
+      213: 21300332
+    second: Arcade - X-Men - Cyclops_166
+  - first:
+      213: 21300334
+    second: Arcade - X-Men - Cyclops_167
+  - first:
+      213: 21300336
+    second: Arcade - X-Men - Cyclops_168
+  - first:
+      213: 21300338
+    second: Arcade - X-Men - Cyclops_169
+  - first:
+      213: 21300340
+    second: Arcade - X-Men - Cyclops_170
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -191,9 +533,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -202,9 +547,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -225,11 +570,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 8192
     resizeAlgorithm: 0
@@ -239,8 +590,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 8192
     resizeAlgorithm: 0
@@ -250,7 +603,35 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -270,6 +651,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 122be5fd99dc6497dbddf45378474708
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -290,6 +672,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b36a1ede95a04ab596717fa480c5e2f
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -310,6 +693,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e2a0503cc64c54bd9a1bcfbf9fc4f68a
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -330,6 +714,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1ac40af7070464c83b99b911131af152
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -350,6 +735,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 306b83214dfc14491a9deb1eb4e8c253
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -370,6 +756,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e9d84014e6c346d2a34ac125eb9d215
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -390,6 +777,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c560b269b610f4d1aa1385cb7f8fc108
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -410,6 +798,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 64bcfb303910b4c4c87f0bf05df4e819
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -430,6 +819,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4e302f925bec043b3b3d5e3b232b06f0
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -450,6 +840,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9c770a07ef1044fd3a21e6ef83754d04
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -470,6 +861,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0d4ac13b246a6417eb0c2b9ff952cd21
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -490,6 +882,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d7ad4fb1c2f344bd19ea053526c094f0
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -510,6 +903,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 41b4ffaefe36c463582e6ac3b607a78a
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -530,6 +924,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 28279d740584d4d89995d929b978cd2f
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -550,6 +945,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 163b2c1a7d7bd4df48e92623e9a05c81
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -570,6 +966,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a172a3dbaa35e45d0ba5fb25d570232d
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -590,6 +987,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6ab5b7a0b229545769d2558c48ee2f83
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -610,6 +1008,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38bb39d1d520d4acea11809d20524507
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -630,6 +1029,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 475c1971186354ea2bdd203b0d8f6f34
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -650,6 +1050,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a4b206eaa70314e74a530698367382c0
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -670,6 +1071,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f3e150b9fd14540e4bfb5f2ff1e935b6
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -690,6 +1092,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1d8a6a67df2634b549618f43538acb04
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -710,6 +1113,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 68b23182677054ce99edccdfb1461d35
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -730,6 +1134,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0df6d7398e6d640a2bede64fecf00bd0
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -750,6 +1155,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 060d322490adc435ea58ad4019da6ab6
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -770,6 +1176,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 78b5443f5d27347cf82f1e4ee1ba532d
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -790,6 +1197,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 57f8db11a82e04f1a8df11bf7325f55a
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -810,6 +1218,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2c00f53af1ab9477fa4f94ed17028b96
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -830,6 +1239,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b690082bc23344b14a9db9749c7b571b
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -850,6 +1260,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b7d4e8ff59bf54453a70eb450069a2fa
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -870,6 +1281,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 171bc407ccbc740499a5f26881556fec
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -890,6 +1302,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a42ba9ec61d4f429db01432aa86c9247
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -910,6 +1323,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1e3b9575401034719abf22bcbd93c81b
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -930,6 +1344,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fbd72e0afa67e4dff96afcd42b7d0915
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -950,6 +1365,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c5cf4a190fee240f58d21c33c0e64e36
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -970,6 +1386,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: df44f442d0cdb43fba152b52e80c895c
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -990,6 +1407,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d412ad60c0bd148849f315f56dce97f3
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -1010,6 +1428,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0e505ef8b98284d859768075d5a9dc00
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -1030,6 +1449,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d4c2043cb5c6849939e76ba139513180
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -1050,6 +1470,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2bc242b00d30b43c6a241ecc8d126f12
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -1070,6 +1491,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: abb7bea05cc184e21b590c9bfdfa0e09
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -1090,6 +1512,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1e96e834fb4514570a4e98d45e0e210e
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1110,6 +1533,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: accd3a560d0464b46bf7e134904d33e7
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -1130,6 +1554,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 78168e51b4ac44f6cb89f20f4f707284
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1150,6 +1575,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 921426bf45bf44f99942879110054624
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -1170,6 +1596,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d74d7ebb35c8641fb83c56cb509394c8
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -1190,6 +1617,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: fa41ac9c2023740438588e8f3d472c74
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -1210,6 +1638,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aeb3b7c35666d4a118ee49a07b92a12d
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -1230,6 +1659,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0ade1408d08f14230b4259dcc8714b16
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1250,6 +1680,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c28526dfaeec44c22b8d6eea529bef04
+      internalID: 21300098
       vertices: []
       indices: 
       edges: []
@@ -1270,6 +1701,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 622242055be0f44f2b29a9c698f22829
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -1290,6 +1722,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9d1b945b68a4048f385387dcfc929559
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -1310,6 +1743,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a9298143f79584d33bc32f4e4c7339a0
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -1330,6 +1764,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 080383c96105b49f38a2f4fd1a99f5aa
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -1350,6 +1785,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b3454a72188274c7ebc0e88498448d05
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -1370,6 +1806,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: baaedfe808f464965b547a7b9fd98752
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -1390,6 +1827,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7af217686c292421fb728da8728af2e6
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -1410,6 +1848,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 11b0c9458a44c4ad2b95bd2d599bd26b
+      internalID: 21300114
       vertices: []
       indices: 
       edges: []
@@ -1430,6 +1869,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f3ccfbca47e144d82baed7276ce7cd3f
+      internalID: 21300116
       vertices: []
       indices: 
       edges: []
@@ -1450,6 +1890,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff01687fd9ddb487ca756d27d05ef7ca
+      internalID: 21300118
       vertices: []
       indices: 
       edges: []
@@ -1470,6 +1911,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a8a2c01bd1e6f4b16b7d864332053497
+      internalID: 21300120
       vertices: []
       indices: 
       edges: []
@@ -1490,6 +1932,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b6258619d2124962a25e2697fa3824d
+      internalID: 21300122
       vertices: []
       indices: 
       edges: []
@@ -1510,6 +1953,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 09df7af68e24f43728deb07231ae2e76
+      internalID: 21300124
       vertices: []
       indices: 
       edges: []
@@ -1530,6 +1974,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 16f2981b89b7840138b7038bdc80e14d
+      internalID: 21300126
       vertices: []
       indices: 
       edges: []
@@ -1550,6 +1995,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0babee674c98741ec86190c0d0cafb91
+      internalID: 21300128
       vertices: []
       indices: 
       edges: []
@@ -1570,6 +2016,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8a639e16e50d4c0f9d5801811b3fe29
+      internalID: 21300130
       vertices: []
       indices: 
       edges: []
@@ -1590,6 +2037,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9f9356db17e2e45888d5481cf5096963
+      internalID: 21300132
       vertices: []
       indices: 
       edges: []
@@ -1610,6 +2058,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7aea47b4e380243cbb348303b28bcf99
+      internalID: 21300134
       vertices: []
       indices: 
       edges: []
@@ -1630,6 +2079,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b937f447d58484ff0a6e9658b0ddfea4
+      internalID: 21300136
       vertices: []
       indices: 
       edges: []
@@ -1650,6 +2100,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2efa277fac4014773949f4424823f01f
+      internalID: 21300138
       vertices: []
       indices: 
       edges: []
@@ -1670,6 +2121,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bca3a26289cc1412c8c794f5a9332131
+      internalID: 21300140
       vertices: []
       indices: 
       edges: []
@@ -1690,6 +2142,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c742da6549b4b449f9c8bd608da9392e
+      internalID: 21300142
       vertices: []
       indices: 
       edges: []
@@ -1710,6 +2163,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42405e313b42d4e92a338e4dbb321c4f
+      internalID: 21300144
       vertices: []
       indices: 
       edges: []
@@ -1730,6 +2184,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 932685b6f0cc3414498e5247c04174f2
+      internalID: 21300146
       vertices: []
       indices: 
       edges: []
@@ -1750,6 +2205,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 156e3c68829814af9928637f512723c7
+      internalID: 21300148
       vertices: []
       indices: 
       edges: []
@@ -1770,6 +2226,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2e0bb7746354b438f98f3cab0cd1fcc2
+      internalID: 21300150
       vertices: []
       indices: 
       edges: []
@@ -1790,6 +2247,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e2d94ae51ea174629ae0fa182e29421b
+      internalID: 21300152
       vertices: []
       indices: 
       edges: []
@@ -1810,6 +2268,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 515e1958ed30142dd88934c4b53722c9
+      internalID: 21300154
       vertices: []
       indices: 
       edges: []
@@ -1830,6 +2289,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 054e59eaa94b846bf9acc0aa2efa0979
+      internalID: 21300156
       vertices: []
       indices: 
       edges: []
@@ -1850,6 +2310,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bff6edd30a55d44f0b38eb4bdb276103
+      internalID: 21300158
       vertices: []
       indices: 
       edges: []
@@ -1870,6 +2331,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: abf67d2506f8f4567aa632ab2b75c925
+      internalID: 21300160
       vertices: []
       indices: 
       edges: []
@@ -1890,6 +2352,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ed0ae9ac1ede64f4e80c54de47f8a773
+      internalID: 21300162
       vertices: []
       indices: 
       edges: []
@@ -1910,6 +2373,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 13ba0f00910b1475b919506248cfc7ce
+      internalID: 21300164
       vertices: []
       indices: 
       edges: []
@@ -1930,6 +2394,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ae8b5a35da17e4005a6c7fa59f1867c5
+      internalID: 21300166
       vertices: []
       indices: 
       edges: []
@@ -1950,6 +2415,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 867beb7cb951147a08a6428aeef31d16
+      internalID: 21300168
       vertices: []
       indices: 
       edges: []
@@ -1970,6 +2436,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 35beafdc7bd8144a1858d8da1a632223
+      internalID: 21300170
       vertices: []
       indices: 
       edges: []
@@ -1990,6 +2457,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 65db380f626a64fb09d4cd2bd4752ce7
+      internalID: 21300172
       vertices: []
       indices: 
       edges: []
@@ -2010,6 +2478,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0870b0cfa6f564317a02663001053fdf
+      internalID: 21300174
       vertices: []
       indices: 
       edges: []
@@ -2030,6 +2499,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2ba0abba5a67f4cce8cbb8f953c757b1
+      internalID: 21300176
       vertices: []
       indices: 
       edges: []
@@ -2050,6 +2520,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8a046d6f70fb476f9969c9db90361d4
+      internalID: 21300178
       vertices: []
       indices: 
       edges: []
@@ -2070,6 +2541,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d711a81c5c5944f349b8c0ad8dbf1e7b
+      internalID: 21300180
       vertices: []
       indices: 
       edges: []
@@ -2090,6 +2562,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b5633c3740426401493749b04553a368
+      internalID: 21300182
       vertices: []
       indices: 
       edges: []
@@ -2110,6 +2583,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6bc34609784c241e7ac3839ff915f972
+      internalID: 21300184
       vertices: []
       indices: 
       edges: []
@@ -2130,6 +2604,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 62edb9cba11ce4c22a3d355a56283261
+      internalID: 21300186
       vertices: []
       indices: 
       edges: []
@@ -2150,6 +2625,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7ce099b6847b84f109c9eeee4827831f
+      internalID: 21300188
       vertices: []
       indices: 
       edges: []
@@ -2170,6 +2646,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8b1f8c6eeb46f4513ab6e0bd9e62ef12
+      internalID: 21300190
       vertices: []
       indices: 
       edges: []
@@ -2190,6 +2667,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5be74126e9ea9439fae8028e609746d4
+      internalID: 21300192
       vertices: []
       indices: 
       edges: []
@@ -2210,6 +2688,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ffc82b858b4c9414884fdc9c93a0895f
+      internalID: 21300194
       vertices: []
       indices: 
       edges: []
@@ -2230,6 +2709,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 910d906a029974e7199ea47e63f9a392
+      internalID: 21300196
       vertices: []
       indices: 
       edges: []
@@ -2250,6 +2730,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 68128b240541845eaa9c52746ac7ab10
+      internalID: 21300198
       vertices: []
       indices: 
       edges: []
@@ -2270,6 +2751,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 208d459a362654d99b3ad95a63e2664d
+      internalID: 21300200
       vertices: []
       indices: 
       edges: []
@@ -2290,6 +2772,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 190f1e1e2fda54d5397fd7fae8c5ce00
+      internalID: 21300202
       vertices: []
       indices: 
       edges: []
@@ -2310,6 +2793,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 25c971dc51de548389902e288903c3d5
+      internalID: 21300204
       vertices: []
       indices: 
       edges: []
@@ -2330,6 +2814,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 695193931c1e445adad3452aac0c99f2
+      internalID: 21300206
       vertices: []
       indices: 
       edges: []
@@ -2350,6 +2835,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 321473dc9ea0446ffb15a6fbcbdc4853
+      internalID: 21300208
       vertices: []
       indices: 
       edges: []
@@ -2370,6 +2856,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3a4ef8e31b02e40b89ee8e13545a9dd3
+      internalID: 21300210
       vertices: []
       indices: 
       edges: []
@@ -2390,6 +2877,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 51383e266c55e4868946dc63fe4b458f
+      internalID: 21300212
       vertices: []
       indices: 
       edges: []
@@ -2410,6 +2898,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d03774c654545423b86a0b0f5493caec
+      internalID: 21300214
       vertices: []
       indices: 
       edges: []
@@ -2430,6 +2919,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 46597d23a7b25489db3a12ca0b6a10c4
+      internalID: 21300216
       vertices: []
       indices: 
       edges: []
@@ -2450,6 +2940,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f00d2670e9d2946f3b0e15108c43ebf2
+      internalID: 21300218
       vertices: []
       indices: 
       edges: []
@@ -2470,6 +2961,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 954d3707cfcd24caab97f44f9e30f9c4
+      internalID: 21300220
       vertices: []
       indices: 
       edges: []
@@ -2490,6 +2982,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ecdfc0f6d3081464e8c7bb14992e2e27
+      internalID: 21300222
       vertices: []
       indices: 
       edges: []
@@ -2510,6 +3003,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5cc1ba39477e547fc93c5b3d6e700e1d
+      internalID: 21300224
       vertices: []
       indices: 
       edges: []
@@ -2530,6 +3024,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f99fe0198786741c8908d3f9a0addc8a
+      internalID: 21300226
       vertices: []
       indices: 
       edges: []
@@ -2550,6 +3045,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1394c9e40ce99441d9dabcd558f15da0
+      internalID: 21300228
       vertices: []
       indices: 
       edges: []
@@ -2570,6 +3066,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 28e279ef789e3485ba53dd5fbc86fffa
+      internalID: 21300230
       vertices: []
       indices: 
       edges: []
@@ -2590,6 +3087,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d270f5b1a975240c2b45037181d287f9
+      internalID: 21300232
       vertices: []
       indices: 
       edges: []
@@ -2610,6 +3108,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f217cb38507c04959843a98a33608d18
+      internalID: 21300234
       vertices: []
       indices: 
       edges: []
@@ -2630,6 +3129,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e47aafdb6013b4178b63dd7fe6e7d724
+      internalID: 21300236
       vertices: []
       indices: 
       edges: []
@@ -2650,6 +3150,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e8470a45fafcb446e8023f2551933bf4
+      internalID: 21300238
       vertices: []
       indices: 
       edges: []
@@ -2670,6 +3171,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 610957d7804c54bbe9a14811c649d748
+      internalID: 21300240
       vertices: []
       indices: 
       edges: []
@@ -2690,6 +3192,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3658ad8ed3954494d9663bb162f4f0e8
+      internalID: 21300242
       vertices: []
       indices: 
       edges: []
@@ -2710,6 +3213,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8cb0f5b8719ba444fb9313fd0f2eeb09
+      internalID: 21300244
       vertices: []
       indices: 
       edges: []
@@ -2730,6 +3234,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 06f0d0ed329e449f1b1419f69639d1dc
+      internalID: 21300246
       vertices: []
       indices: 
       edges: []
@@ -2750,6 +3255,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 60634f6c1780a4bd48b0e3c7eb78678f
+      internalID: 21300248
       vertices: []
       indices: 
       edges: []
@@ -2770,6 +3276,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: eeb5e6c6391c6410aad6fe68decca0ea
+      internalID: 21300250
       vertices: []
       indices: 
       edges: []
@@ -2790,6 +3297,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0c3acd8c23a4f402181a075345f5ac79
+      internalID: 21300252
       vertices: []
       indices: 
       edges: []
@@ -2810,6 +3318,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b736ec94a41e146c8a3473969a7a601a
+      internalID: 21300254
       vertices: []
       indices: 
       edges: []
@@ -2830,6 +3339,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ef12ab6934cd84ae7a5a4224ea831692
+      internalID: 21300256
       vertices: []
       indices: 
       edges: []
@@ -2850,6 +3360,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 95c711768cc934a1cb11134c985b2068
+      internalID: 21300258
       vertices: []
       indices: 
       edges: []
@@ -2870,6 +3381,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 16d90b2fef90e47309d99c6c666c9790
+      internalID: 21300260
       vertices: []
       indices: 
       edges: []
@@ -2890,6 +3402,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f688482619709449a8dbe30d15c7e822
+      internalID: 21300262
       vertices: []
       indices: 
       edges: []
@@ -2910,6 +3423,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a099e4af356ea4a1da381cce9e50d081
+      internalID: 21300264
       vertices: []
       indices: 
       edges: []
@@ -2930,6 +3444,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: da92b867949d7479bbe356f0e8c5ed9c
+      internalID: 21300266
       vertices: []
       indices: 
       edges: []
@@ -2950,6 +3465,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1dd5775d1c7944f7a9cac7394ee36628
+      internalID: 21300268
       vertices: []
       indices: 
       edges: []
@@ -2970,6 +3486,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c880cde1d365a43aabee802d775844d3
+      internalID: 21300270
       vertices: []
       indices: 
       edges: []
@@ -2990,6 +3507,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 63e69205065174a3b9905c53a4081952
+      internalID: 21300272
       vertices: []
       indices: 
       edges: []
@@ -3010,6 +3528,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd29186dda3694abdb2cd0e5d66eab9b
+      internalID: 21300274
       vertices: []
       indices: 
       edges: []
@@ -3030,6 +3549,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff288d1fff4fb4f64bcd881695221426
+      internalID: 21300276
       vertices: []
       indices: 
       edges: []
@@ -3050,6 +3570,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cd202dcf2685a466788b76742bd2602c
+      internalID: 21300278
       vertices: []
       indices: 
       edges: []
@@ -3070,6 +3591,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 83fbdbe6ba641404bab2e49b1e3041cc
+      internalID: 21300280
       vertices: []
       indices: 
       edges: []
@@ -3090,6 +3612,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4220cdd0837ef4566a638e7338219fe5
+      internalID: 21300282
       vertices: []
       indices: 
       edges: []
@@ -3110,6 +3633,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e3560a61a1c0d48a2bf020be69b5b7dc
+      internalID: 21300284
       vertices: []
       indices: 
       edges: []
@@ -3130,6 +3654,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3a18a1086bf4d4a22948c9e8bf033268
+      internalID: 21300286
       vertices: []
       indices: 
       edges: []
@@ -3150,6 +3675,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aa141af89916b43eeb4abaf9a1f1d01e
+      internalID: 21300288
       vertices: []
       indices: 
       edges: []
@@ -3170,6 +3696,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 56bc04474a51f4848a9f855fa1354e4a
+      internalID: 21300290
       vertices: []
       indices: 
       edges: []
@@ -3190,6 +3717,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b4a46cdd9320a49339571735dcb35362
+      internalID: 21300292
       vertices: []
       indices: 
       edges: []
@@ -3210,6 +3738,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0bb88d13a8ee44926964e07720aec167
+      internalID: 21300294
       vertices: []
       indices: 
       edges: []
@@ -3230,6 +3759,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36238793228da493fb9021f4c0899941
+      internalID: 21300296
       vertices: []
       indices: 
       edges: []
@@ -3250,6 +3780,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 956cd6f07e31b4d3e94a7c50f7f4630e
+      internalID: 21300298
       vertices: []
       indices: 
       edges: []
@@ -3270,6 +3801,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c8135a33ee2ba40b5b78dc1f3fd40a9e
+      internalID: 21300300
       vertices: []
       indices: 
       edges: []
@@ -3290,6 +3822,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b71e38169c1148c6b1a665253ab4f0d
+      internalID: 21300302
       vertices: []
       indices: 
       edges: []
@@ -3310,6 +3843,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b27a9689354f64096a33e30038127cbf
+      internalID: 21300304
       vertices: []
       indices: 
       edges: []
@@ -3330,6 +3864,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6ee44a52a379b4857a32873f23d68b1e
+      internalID: 21300306
       vertices: []
       indices: 
       edges: []
@@ -3350,6 +3885,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c6e3dcf19c77447dfaf4c1f93d77b7d0
+      internalID: 21300308
       vertices: []
       indices: 
       edges: []
@@ -3370,6 +3906,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b6be4e0b019434a56a0d85e7004e6b94
+      internalID: 21300310
       vertices: []
       indices: 
       edges: []
@@ -3390,6 +3927,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5ddbd4a8a6a7043939a2b8587d0856f8
+      internalID: 21300312
       vertices: []
       indices: 
       edges: []
@@ -3410,6 +3948,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 76ee4a848a14c409c8bd2185fe8f2623
+      internalID: 21300314
       vertices: []
       indices: 
       edges: []
@@ -3430,6 +3969,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: af2b5ea53bc4d46f59d22b68bd35c92a
+      internalID: 21300316
       vertices: []
       indices: 
       edges: []
@@ -3450,6 +3990,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4e68d960c7d85461eb3ea662d45929b2
+      internalID: 21300318
       vertices: []
       indices: 
       edges: []
@@ -3470,6 +4011,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 293364afa57644b2d9a148351c3cbb02
+      internalID: 21300320
       vertices: []
       indices: 
       edges: []
@@ -3490,6 +4032,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cbca19c63ddbf4f2f95200f7eb4adaeb
+      internalID: 21300322
       vertices: []
       indices: 
       edges: []
@@ -3510,6 +4053,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a865161231a26452b8ad7bce5d9d25db
+      internalID: 21300324
       vertices: []
       indices: 
       edges: []
@@ -3530,6 +4074,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aba4e2bbf6bac4ca1b230e4ae15d84a1
+      internalID: 21300326
       vertices: []
       indices: 
       edges: []
@@ -3550,6 +4095,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 804547d08fce2497192c08fd75fcbc92
+      internalID: 21300328
       vertices: []
       indices: 
       edges: []
@@ -3570,6 +4116,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 037a88f205afc4bf3baf5ad778e057d6
+      internalID: 21300330
       vertices: []
       indices: 
       edges: []
@@ -3590,6 +4137,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d007c33ada32643c08b13cc4b5e5e648
+      internalID: 21300332
       vertices: []
       indices: 
       edges: []
@@ -3610,6 +4158,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bafd1fffb05f74ac791b24562612eb3d
+      internalID: 21300334
       vertices: []
       indices: 
       edges: []
@@ -3630,6 +4179,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2c0f1686c12e74aa58f8ba852072b664
+      internalID: 21300336
       vertices: []
       indices: 
       edges: []
@@ -3650,6 +4200,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a6d9c4cce44444e4ab1990ac592bb013
+      internalID: 21300338
       vertices: []
       indices: 
       edges: []
@@ -3670,6 +4221,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f35d1a1d4e7734587887b293461f25e7
+      internalID: 21300340
       vertices: []
       indices: 
       edges: []
@@ -3678,13 +4230,186 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5da51f66a4d2743d4ae45570307f081a
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - X-Men - Cyclops_0: 21300000
+      Arcade - X-Men - Cyclops_1: 21300002
+      Arcade - X-Men - Cyclops_10: 21300020
+      Arcade - X-Men - Cyclops_100: 21300200
+      Arcade - X-Men - Cyclops_101: 21300202
+      Arcade - X-Men - Cyclops_102: 21300204
+      Arcade - X-Men - Cyclops_103: 21300206
+      Arcade - X-Men - Cyclops_104: 21300208
+      Arcade - X-Men - Cyclops_105: 21300210
+      Arcade - X-Men - Cyclops_106: 21300212
+      Arcade - X-Men - Cyclops_107: 21300214
+      Arcade - X-Men - Cyclops_108: 21300216
+      Arcade - X-Men - Cyclops_109: 21300218
+      Arcade - X-Men - Cyclops_11: 21300022
+      Arcade - X-Men - Cyclops_110: 21300220
+      Arcade - X-Men - Cyclops_111: 21300222
+      Arcade - X-Men - Cyclops_112: 21300224
+      Arcade - X-Men - Cyclops_113: 21300226
+      Arcade - X-Men - Cyclops_114: 21300228
+      Arcade - X-Men - Cyclops_115: 21300230
+      Arcade - X-Men - Cyclops_116: 21300232
+      Arcade - X-Men - Cyclops_117: 21300234
+      Arcade - X-Men - Cyclops_118: 21300236
+      Arcade - X-Men - Cyclops_119: 21300238
+      Arcade - X-Men - Cyclops_12: 21300024
+      Arcade - X-Men - Cyclops_120: 21300240
+      Arcade - X-Men - Cyclops_121: 21300242
+      Arcade - X-Men - Cyclops_122: 21300244
+      Arcade - X-Men - Cyclops_123: 21300246
+      Arcade - X-Men - Cyclops_124: 21300248
+      Arcade - X-Men - Cyclops_125: 21300250
+      Arcade - X-Men - Cyclops_126: 21300252
+      Arcade - X-Men - Cyclops_127: 21300254
+      Arcade - X-Men - Cyclops_128: 21300256
+      Arcade - X-Men - Cyclops_129: 21300258
+      Arcade - X-Men - Cyclops_13: 21300026
+      Arcade - X-Men - Cyclops_130: 21300260
+      Arcade - X-Men - Cyclops_131: 21300262
+      Arcade - X-Men - Cyclops_132: 21300264
+      Arcade - X-Men - Cyclops_133: 21300266
+      Arcade - X-Men - Cyclops_134: 21300268
+      Arcade - X-Men - Cyclops_135: 21300270
+      Arcade - X-Men - Cyclops_136: 21300272
+      Arcade - X-Men - Cyclops_137: 21300274
+      Arcade - X-Men - Cyclops_138: 21300276
+      Arcade - X-Men - Cyclops_139: 21300278
+      Arcade - X-Men - Cyclops_14: 21300028
+      Arcade - X-Men - Cyclops_140: 21300280
+      Arcade - X-Men - Cyclops_141: 21300282
+      Arcade - X-Men - Cyclops_142: 21300284
+      Arcade - X-Men - Cyclops_143: 21300286
+      Arcade - X-Men - Cyclops_144: 21300288
+      Arcade - X-Men - Cyclops_145: 21300290
+      Arcade - X-Men - Cyclops_146: 21300292
+      Arcade - X-Men - Cyclops_147: 21300294
+      Arcade - X-Men - Cyclops_148: 21300296
+      Arcade - X-Men - Cyclops_149: 21300298
+      Arcade - X-Men - Cyclops_15: 21300030
+      Arcade - X-Men - Cyclops_150: 21300300
+      Arcade - X-Men - Cyclops_151: 21300302
+      Arcade - X-Men - Cyclops_152: 21300304
+      Arcade - X-Men - Cyclops_153: 21300306
+      Arcade - X-Men - Cyclops_154: 21300308
+      Arcade - X-Men - Cyclops_155: 21300310
+      Arcade - X-Men - Cyclops_156: 21300312
+      Arcade - X-Men - Cyclops_157: 21300314
+      Arcade - X-Men - Cyclops_158: 21300316
+      Arcade - X-Men - Cyclops_159: 21300318
+      Arcade - X-Men - Cyclops_16: 21300032
+      Arcade - X-Men - Cyclops_160: 21300320
+      Arcade - X-Men - Cyclops_161: 21300322
+      Arcade - X-Men - Cyclops_162: 21300324
+      Arcade - X-Men - Cyclops_163: 21300326
+      Arcade - X-Men - Cyclops_164: 21300328
+      Arcade - X-Men - Cyclops_165: 21300330
+      Arcade - X-Men - Cyclops_166: 21300332
+      Arcade - X-Men - Cyclops_167: 21300334
+      Arcade - X-Men - Cyclops_168: 21300336
+      Arcade - X-Men - Cyclops_169: 21300338
+      Arcade - X-Men - Cyclops_17: 21300034
+      Arcade - X-Men - Cyclops_170: 21300340
+      Arcade - X-Men - Cyclops_18: 21300036
+      Arcade - X-Men - Cyclops_19: 21300038
+      Arcade - X-Men - Cyclops_2: 21300004
+      Arcade - X-Men - Cyclops_20: 21300040
+      Arcade - X-Men - Cyclops_21: 21300042
+      Arcade - X-Men - Cyclops_22: 21300044
+      Arcade - X-Men - Cyclops_23: 21300046
+      Arcade - X-Men - Cyclops_24: 21300048
+      Arcade - X-Men - Cyclops_25: 21300050
+      Arcade - X-Men - Cyclops_26: 21300052
+      Arcade - X-Men - Cyclops_27: 21300054
+      Arcade - X-Men - Cyclops_28: 21300056
+      Arcade - X-Men - Cyclops_29: 21300058
+      Arcade - X-Men - Cyclops_3: 21300006
+      Arcade - X-Men - Cyclops_30: 21300060
+      Arcade - X-Men - Cyclops_31: 21300062
+      Arcade - X-Men - Cyclops_32: 21300064
+      Arcade - X-Men - Cyclops_33: 21300066
+      Arcade - X-Men - Cyclops_34: 21300068
+      Arcade - X-Men - Cyclops_35: 21300070
+      Arcade - X-Men - Cyclops_36: 21300072
+      Arcade - X-Men - Cyclops_37: 21300074
+      Arcade - X-Men - Cyclops_38: 21300076
+      Arcade - X-Men - Cyclops_39: 21300078
+      Arcade - X-Men - Cyclops_4: 21300008
+      Arcade - X-Men - Cyclops_40: 21300080
+      Arcade - X-Men - Cyclops_41: 21300082
+      Arcade - X-Men - Cyclops_42: 21300084
+      Arcade - X-Men - Cyclops_43: 21300086
+      Arcade - X-Men - Cyclops_44: 21300088
+      Arcade - X-Men - Cyclops_45: 21300090
+      Arcade - X-Men - Cyclops_46: 21300092
+      Arcade - X-Men - Cyclops_47: 21300094
+      Arcade - X-Men - Cyclops_48: 21300096
+      Arcade - X-Men - Cyclops_49: 21300098
+      Arcade - X-Men - Cyclops_5: 21300010
+      Arcade - X-Men - Cyclops_50: 21300100
+      Arcade - X-Men - Cyclops_51: 21300102
+      Arcade - X-Men - Cyclops_52: 21300104
+      Arcade - X-Men - Cyclops_53: 21300106
+      Arcade - X-Men - Cyclops_54: 21300108
+      Arcade - X-Men - Cyclops_55: 21300110
+      Arcade - X-Men - Cyclops_56: 21300112
+      Arcade - X-Men - Cyclops_57: 21300114
+      Arcade - X-Men - Cyclops_58: 21300116
+      Arcade - X-Men - Cyclops_59: 21300118
+      Arcade - X-Men - Cyclops_6: 21300012
+      Arcade - X-Men - Cyclops_60: 21300120
+      Arcade - X-Men - Cyclops_61: 21300122
+      Arcade - X-Men - Cyclops_62: 21300124
+      Arcade - X-Men - Cyclops_63: 21300126
+      Arcade - X-Men - Cyclops_64: 21300128
+      Arcade - X-Men - Cyclops_65: 21300130
+      Arcade - X-Men - Cyclops_66: 21300132
+      Arcade - X-Men - Cyclops_67: 21300134
+      Arcade - X-Men - Cyclops_68: 21300136
+      Arcade - X-Men - Cyclops_69: 21300138
+      Arcade - X-Men - Cyclops_7: 21300014
+      Arcade - X-Men - Cyclops_70: 21300140
+      Arcade - X-Men - Cyclops_71: 21300142
+      Arcade - X-Men - Cyclops_72: 21300144
+      Arcade - X-Men - Cyclops_73: 21300146
+      Arcade - X-Men - Cyclops_74: 21300148
+      Arcade - X-Men - Cyclops_75: 21300150
+      Arcade - X-Men - Cyclops_76: 21300152
+      Arcade - X-Men - Cyclops_77: 21300154
+      Arcade - X-Men - Cyclops_78: 21300156
+      Arcade - X-Men - Cyclops_79: 21300158
+      Arcade - X-Men - Cyclops_8: 21300016
+      Arcade - X-Men - Cyclops_80: 21300160
+      Arcade - X-Men - Cyclops_81: 21300162
+      Arcade - X-Men - Cyclops_82: 21300164
+      Arcade - X-Men - Cyclops_83: 21300166
+      Arcade - X-Men - Cyclops_84: 21300168
+      Arcade - X-Men - Cyclops_85: 21300170
+      Arcade - X-Men - Cyclops_86: 21300172
+      Arcade - X-Men - Cyclops_87: 21300174
+      Arcade - X-Men - Cyclops_88: 21300176
+      Arcade - X-Men - Cyclops_89: 21300178
+      Arcade - X-Men - Cyclops_9: 21300018
+      Arcade - X-Men - Cyclops_90: 21300180
+      Arcade - X-Men - Cyclops_91: 21300182
+      Arcade - X-Men - Cyclops_92: 21300184
+      Arcade - X-Men - Cyclops_93: 21300186
+      Arcade - X-Men - Cyclops_94: 21300188
+      Arcade - X-Men - Cyclops_95: 21300190
+      Arcade - X-Men - Cyclops_96: 21300192
+      Arcade - X-Men - Cyclops_97: 21300194
+      Arcade - X-Men - Cyclops_98: 21300196
+      Arcade - X-Men - Cyclops_99: 21300198
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

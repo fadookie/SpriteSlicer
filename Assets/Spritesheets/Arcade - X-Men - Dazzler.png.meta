@@ -1,150 +1,432 @@
 fileFormatVersion: 2
 guid: 6b3d8d189acd244668c4470a1da86676
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Arcade - X-Men - Dazzler_0
-    21300002: Arcade - X-Men - Dazzler_1
-    21300004: Arcade - X-Men - Dazzler_2
-    21300006: Arcade - X-Men - Dazzler_3
-    21300008: Arcade - X-Men - Dazzler_4
-    21300010: Arcade - X-Men - Dazzler_5
-    21300012: Arcade - X-Men - Dazzler_6
-    21300014: Arcade - X-Men - Dazzler_7
-    21300016: Arcade - X-Men - Dazzler_8
-    21300018: Arcade - X-Men - Dazzler_9
-    21300020: Arcade - X-Men - Dazzler_10
-    21300022: Arcade - X-Men - Dazzler_11
-    21300024: Arcade - X-Men - Dazzler_12
-    21300026: Arcade - X-Men - Dazzler_13
-    21300028: Arcade - X-Men - Dazzler_14
-    21300030: Arcade - X-Men - Dazzler_15
-    21300032: Arcade - X-Men - Dazzler_16
-    21300034: Arcade - X-Men - Dazzler_17
-    21300036: Arcade - X-Men - Dazzler_18
-    21300038: Arcade - X-Men - Dazzler_19
-    21300040: Arcade - X-Men - Dazzler_20
-    21300042: Arcade - X-Men - Dazzler_21
-    21300044: Arcade - X-Men - Dazzler_22
-    21300046: Arcade - X-Men - Dazzler_23
-    21300048: Arcade - X-Men - Dazzler_24
-    21300050: Arcade - X-Men - Dazzler_25
-    21300052: Arcade - X-Men - Dazzler_26
-    21300054: Arcade - X-Men - Dazzler_27
-    21300056: Arcade - X-Men - Dazzler_28
-    21300058: Arcade - X-Men - Dazzler_29
-    21300060: Arcade - X-Men - Dazzler_30
-    21300062: Arcade - X-Men - Dazzler_31
-    21300064: Arcade - X-Men - Dazzler_32
-    21300066: Arcade - X-Men - Dazzler_33
-    21300068: Arcade - X-Men - Dazzler_34
-    21300070: Arcade - X-Men - Dazzler_35
-    21300072: Arcade - X-Men - Dazzler_36
-    21300074: Arcade - X-Men - Dazzler_37
-    21300076: Arcade - X-Men - Dazzler_38
-    21300078: Arcade - X-Men - Dazzler_39
-    21300080: Arcade - X-Men - Dazzler_40
-    21300082: Arcade - X-Men - Dazzler_41
-    21300084: Arcade - X-Men - Dazzler_42
-    21300086: Arcade - X-Men - Dazzler_43
-    21300088: Arcade - X-Men - Dazzler_44
-    21300090: Arcade - X-Men - Dazzler_45
-    21300092: Arcade - X-Men - Dazzler_46
-    21300094: Arcade - X-Men - Dazzler_47
-    21300096: Arcade - X-Men - Dazzler_48
-    21300098: Arcade - X-Men - Dazzler_49
-    21300100: Arcade - X-Men - Dazzler_50
-    21300102: Arcade - X-Men - Dazzler_51
-    21300104: Arcade - X-Men - Dazzler_52
-    21300106: Arcade - X-Men - Dazzler_53
-    21300108: Arcade - X-Men - Dazzler_54
-    21300110: Arcade - X-Men - Dazzler_55
-    21300112: Arcade - X-Men - Dazzler_56
-    21300114: Arcade - X-Men - Dazzler_57
-    21300116: Arcade - X-Men - Dazzler_58
-    21300118: Arcade - X-Men - Dazzler_59
-    21300120: Arcade - X-Men - Dazzler_60
-    21300122: Arcade - X-Men - Dazzler_61
-    21300124: Arcade - X-Men - Dazzler_62
-    21300126: Arcade - X-Men - Dazzler_63
-    21300128: Arcade - X-Men - Dazzler_64
-    21300130: Arcade - X-Men - Dazzler_65
-    21300132: Arcade - X-Men - Dazzler_66
-    21300134: Arcade - X-Men - Dazzler_67
-    21300136: Arcade - X-Men - Dazzler_68
-    21300138: Arcade - X-Men - Dazzler_69
-    21300140: Arcade - X-Men - Dazzler_70
-    21300142: Arcade - X-Men - Dazzler_71
-    21300144: Arcade - X-Men - Dazzler_72
-    21300146: Arcade - X-Men - Dazzler_73
-    21300148: Arcade - X-Men - Dazzler_74
-    21300150: Arcade - X-Men - Dazzler_75
-    21300152: Arcade - X-Men - Dazzler_76
-    21300154: Arcade - X-Men - Dazzler_77
-    21300156: Arcade - X-Men - Dazzler_78
-    21300158: Arcade - X-Men - Dazzler_79
-    21300160: Arcade - X-Men - Dazzler_80
-    21300162: Arcade - X-Men - Dazzler_81
-    21300164: Arcade - X-Men - Dazzler_82
-    21300166: Arcade - X-Men - Dazzler_83
-    21300168: Arcade - X-Men - Dazzler_84
-    21300170: Arcade - X-Men - Dazzler_85
-    21300172: Arcade - X-Men - Dazzler_86
-    21300174: Arcade - X-Men - Dazzler_87
-    21300176: Arcade - X-Men - Dazzler_88
-    21300178: Arcade - X-Men - Dazzler_89
-    21300180: Arcade - X-Men - Dazzler_90
-    21300182: Arcade - X-Men - Dazzler_91
-    21300184: Arcade - X-Men - Dazzler_92
-    21300186: Arcade - X-Men - Dazzler_93
-    21300188: Arcade - X-Men - Dazzler_94
-    21300190: Arcade - X-Men - Dazzler_95
-    21300192: Arcade - X-Men - Dazzler_96
-    21300194: Arcade - X-Men - Dazzler_97
-    21300196: Arcade - X-Men - Dazzler_98
-    21300198: Arcade - X-Men - Dazzler_99
-    21300200: Arcade - X-Men - Dazzler_100
-    21300202: Arcade - X-Men - Dazzler_101
-    21300204: Arcade - X-Men - Dazzler_102
-    21300206: Arcade - X-Men - Dazzler_103
-    21300208: Arcade - X-Men - Dazzler_104
-    21300210: Arcade - X-Men - Dazzler_105
-    21300212: Arcade - X-Men - Dazzler_106
-    21300214: Arcade - X-Men - Dazzler_107
-    21300216: Arcade - X-Men - Dazzler_108
-    21300218: Arcade - X-Men - Dazzler_109
-    21300220: Arcade - X-Men - Dazzler_110
-    21300222: Arcade - X-Men - Dazzler_111
-    21300224: Arcade - X-Men - Dazzler_112
-    21300226: Arcade - X-Men - Dazzler_113
-    21300228: Arcade - X-Men - Dazzler_114
-    21300230: Arcade - X-Men - Dazzler_115
-    21300232: Arcade - X-Men - Dazzler_116
-    21300234: Arcade - X-Men - Dazzler_117
-    21300236: Arcade - X-Men - Dazzler_118
-    21300238: Arcade - X-Men - Dazzler_119
-    21300240: Arcade - X-Men - Dazzler_120
-    21300242: Arcade - X-Men - Dazzler_121
-    21300244: Arcade - X-Men - Dazzler_122
-    21300246: Arcade - X-Men - Dazzler_123
-    21300248: Arcade - X-Men - Dazzler_124
-    21300250: Arcade - X-Men - Dazzler_125
-    21300252: Arcade - X-Men - Dazzler_126
-    21300254: Arcade - X-Men - Dazzler_127
-    21300256: Arcade - X-Men - Dazzler_128
-    21300258: Arcade - X-Men - Dazzler_129
-    21300260: Arcade - X-Men - Dazzler_130
-    21300262: Arcade - X-Men - Dazzler_131
-    21300264: Arcade - X-Men - Dazzler_132
-    21300266: Arcade - X-Men - Dazzler_133
-    21300268: Arcade - X-Men - Dazzler_134
-    21300270: Arcade - X-Men - Dazzler_135
-    21300272: Arcade - X-Men - Dazzler_136
-    21300274: Arcade - X-Men - Dazzler_137
-    21300276: Arcade - X-Men - Dazzler_138
-    21300278: Arcade - X-Men - Dazzler_139
-    21300280: Arcade - X-Men - Dazzler_140
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Arcade - X-Men - Dazzler_0
+  - first:
+      213: 21300002
+    second: Arcade - X-Men - Dazzler_1
+  - first:
+      213: 21300004
+    second: Arcade - X-Men - Dazzler_2
+  - first:
+      213: 21300006
+    second: Arcade - X-Men - Dazzler_3
+  - first:
+      213: 21300008
+    second: Arcade - X-Men - Dazzler_4
+  - first:
+      213: 21300010
+    second: Arcade - X-Men - Dazzler_5
+  - first:
+      213: 21300012
+    second: Arcade - X-Men - Dazzler_6
+  - first:
+      213: 21300014
+    second: Arcade - X-Men - Dazzler_7
+  - first:
+      213: 21300016
+    second: Arcade - X-Men - Dazzler_8
+  - first:
+      213: 21300018
+    second: Arcade - X-Men - Dazzler_9
+  - first:
+      213: 21300020
+    second: Arcade - X-Men - Dazzler_10
+  - first:
+      213: 21300022
+    second: Arcade - X-Men - Dazzler_11
+  - first:
+      213: 21300024
+    second: Arcade - X-Men - Dazzler_12
+  - first:
+      213: 21300026
+    second: Arcade - X-Men - Dazzler_13
+  - first:
+      213: 21300028
+    second: Arcade - X-Men - Dazzler_14
+  - first:
+      213: 21300030
+    second: Arcade - X-Men - Dazzler_15
+  - first:
+      213: 21300032
+    second: Arcade - X-Men - Dazzler_16
+  - first:
+      213: 21300034
+    second: Arcade - X-Men - Dazzler_17
+  - first:
+      213: 21300036
+    second: Arcade - X-Men - Dazzler_18
+  - first:
+      213: 21300038
+    second: Arcade - X-Men - Dazzler_19
+  - first:
+      213: 21300040
+    second: Arcade - X-Men - Dazzler_20
+  - first:
+      213: 21300042
+    second: Arcade - X-Men - Dazzler_21
+  - first:
+      213: 21300044
+    second: Arcade - X-Men - Dazzler_22
+  - first:
+      213: 21300046
+    second: Arcade - X-Men - Dazzler_23
+  - first:
+      213: 21300048
+    second: Arcade - X-Men - Dazzler_24
+  - first:
+      213: 21300050
+    second: Arcade - X-Men - Dazzler_25
+  - first:
+      213: 21300052
+    second: Arcade - X-Men - Dazzler_26
+  - first:
+      213: 21300054
+    second: Arcade - X-Men - Dazzler_27
+  - first:
+      213: 21300056
+    second: Arcade - X-Men - Dazzler_28
+  - first:
+      213: 21300058
+    second: Arcade - X-Men - Dazzler_29
+  - first:
+      213: 21300060
+    second: Arcade - X-Men - Dazzler_30
+  - first:
+      213: 21300062
+    second: Arcade - X-Men - Dazzler_31
+  - first:
+      213: 21300064
+    second: Arcade - X-Men - Dazzler_32
+  - first:
+      213: 21300066
+    second: Arcade - X-Men - Dazzler_33
+  - first:
+      213: 21300068
+    second: Arcade - X-Men - Dazzler_34
+  - first:
+      213: 21300070
+    second: Arcade - X-Men - Dazzler_35
+  - first:
+      213: 21300072
+    second: Arcade - X-Men - Dazzler_36
+  - first:
+      213: 21300074
+    second: Arcade - X-Men - Dazzler_37
+  - first:
+      213: 21300076
+    second: Arcade - X-Men - Dazzler_38
+  - first:
+      213: 21300078
+    second: Arcade - X-Men - Dazzler_39
+  - first:
+      213: 21300080
+    second: Arcade - X-Men - Dazzler_40
+  - first:
+      213: 21300082
+    second: Arcade - X-Men - Dazzler_41
+  - first:
+      213: 21300084
+    second: Arcade - X-Men - Dazzler_42
+  - first:
+      213: 21300086
+    second: Arcade - X-Men - Dazzler_43
+  - first:
+      213: 21300088
+    second: Arcade - X-Men - Dazzler_44
+  - first:
+      213: 21300090
+    second: Arcade - X-Men - Dazzler_45
+  - first:
+      213: 21300092
+    second: Arcade - X-Men - Dazzler_46
+  - first:
+      213: 21300094
+    second: Arcade - X-Men - Dazzler_47
+  - first:
+      213: 21300096
+    second: Arcade - X-Men - Dazzler_48
+  - first:
+      213: 21300098
+    second: Arcade - X-Men - Dazzler_49
+  - first:
+      213: 21300100
+    second: Arcade - X-Men - Dazzler_50
+  - first:
+      213: 21300102
+    second: Arcade - X-Men - Dazzler_51
+  - first:
+      213: 21300104
+    second: Arcade - X-Men - Dazzler_52
+  - first:
+      213: 21300106
+    second: Arcade - X-Men - Dazzler_53
+  - first:
+      213: 21300108
+    second: Arcade - X-Men - Dazzler_54
+  - first:
+      213: 21300110
+    second: Arcade - X-Men - Dazzler_55
+  - first:
+      213: 21300112
+    second: Arcade - X-Men - Dazzler_56
+  - first:
+      213: 21300114
+    second: Arcade - X-Men - Dazzler_57
+  - first:
+      213: 21300116
+    second: Arcade - X-Men - Dazzler_58
+  - first:
+      213: 21300118
+    second: Arcade - X-Men - Dazzler_59
+  - first:
+      213: 21300120
+    second: Arcade - X-Men - Dazzler_60
+  - first:
+      213: 21300122
+    second: Arcade - X-Men - Dazzler_61
+  - first:
+      213: 21300124
+    second: Arcade - X-Men - Dazzler_62
+  - first:
+      213: 21300126
+    second: Arcade - X-Men - Dazzler_63
+  - first:
+      213: 21300128
+    second: Arcade - X-Men - Dazzler_64
+  - first:
+      213: 21300130
+    second: Arcade - X-Men - Dazzler_65
+  - first:
+      213: 21300132
+    second: Arcade - X-Men - Dazzler_66
+  - first:
+      213: 21300134
+    second: Arcade - X-Men - Dazzler_67
+  - first:
+      213: 21300136
+    second: Arcade - X-Men - Dazzler_68
+  - first:
+      213: 21300138
+    second: Arcade - X-Men - Dazzler_69
+  - first:
+      213: 21300140
+    second: Arcade - X-Men - Dazzler_70
+  - first:
+      213: 21300142
+    second: Arcade - X-Men - Dazzler_71
+  - first:
+      213: 21300144
+    second: Arcade - X-Men - Dazzler_72
+  - first:
+      213: 21300146
+    second: Arcade - X-Men - Dazzler_73
+  - first:
+      213: 21300148
+    second: Arcade - X-Men - Dazzler_74
+  - first:
+      213: 21300150
+    second: Arcade - X-Men - Dazzler_75
+  - first:
+      213: 21300152
+    second: Arcade - X-Men - Dazzler_76
+  - first:
+      213: 21300154
+    second: Arcade - X-Men - Dazzler_77
+  - first:
+      213: 21300156
+    second: Arcade - X-Men - Dazzler_78
+  - first:
+      213: 21300158
+    second: Arcade - X-Men - Dazzler_79
+  - first:
+      213: 21300160
+    second: Arcade - X-Men - Dazzler_80
+  - first:
+      213: 21300162
+    second: Arcade - X-Men - Dazzler_81
+  - first:
+      213: 21300164
+    second: Arcade - X-Men - Dazzler_82
+  - first:
+      213: 21300166
+    second: Arcade - X-Men - Dazzler_83
+  - first:
+      213: 21300168
+    second: Arcade - X-Men - Dazzler_84
+  - first:
+      213: 21300170
+    second: Arcade - X-Men - Dazzler_85
+  - first:
+      213: 21300172
+    second: Arcade - X-Men - Dazzler_86
+  - first:
+      213: 21300174
+    second: Arcade - X-Men - Dazzler_87
+  - first:
+      213: 21300176
+    second: Arcade - X-Men - Dazzler_88
+  - first:
+      213: 21300178
+    second: Arcade - X-Men - Dazzler_89
+  - first:
+      213: 21300180
+    second: Arcade - X-Men - Dazzler_90
+  - first:
+      213: 21300182
+    second: Arcade - X-Men - Dazzler_91
+  - first:
+      213: 21300184
+    second: Arcade - X-Men - Dazzler_92
+  - first:
+      213: 21300186
+    second: Arcade - X-Men - Dazzler_93
+  - first:
+      213: 21300188
+    second: Arcade - X-Men - Dazzler_94
+  - first:
+      213: 21300190
+    second: Arcade - X-Men - Dazzler_95
+  - first:
+      213: 21300192
+    second: Arcade - X-Men - Dazzler_96
+  - first:
+      213: 21300194
+    second: Arcade - X-Men - Dazzler_97
+  - first:
+      213: 21300196
+    second: Arcade - X-Men - Dazzler_98
+  - first:
+      213: 21300198
+    second: Arcade - X-Men - Dazzler_99
+  - first:
+      213: 21300200
+    second: Arcade - X-Men - Dazzler_100
+  - first:
+      213: 21300202
+    second: Arcade - X-Men - Dazzler_101
+  - first:
+      213: 21300204
+    second: Arcade - X-Men - Dazzler_102
+  - first:
+      213: 21300206
+    second: Arcade - X-Men - Dazzler_103
+  - first:
+      213: 21300208
+    second: Arcade - X-Men - Dazzler_104
+  - first:
+      213: 21300210
+    second: Arcade - X-Men - Dazzler_105
+  - first:
+      213: 21300212
+    second: Arcade - X-Men - Dazzler_106
+  - first:
+      213: 21300214
+    second: Arcade - X-Men - Dazzler_107
+  - first:
+      213: 21300216
+    second: Arcade - X-Men - Dazzler_108
+  - first:
+      213: 21300218
+    second: Arcade - X-Men - Dazzler_109
+  - first:
+      213: 21300220
+    second: Arcade - X-Men - Dazzler_110
+  - first:
+      213: 21300222
+    second: Arcade - X-Men - Dazzler_111
+  - first:
+      213: 21300224
+    second: Arcade - X-Men - Dazzler_112
+  - first:
+      213: 21300226
+    second: Arcade - X-Men - Dazzler_113
+  - first:
+      213: 21300228
+    second: Arcade - X-Men - Dazzler_114
+  - first:
+      213: 21300230
+    second: Arcade - X-Men - Dazzler_115
+  - first:
+      213: 21300232
+    second: Arcade - X-Men - Dazzler_116
+  - first:
+      213: 21300234
+    second: Arcade - X-Men - Dazzler_117
+  - first:
+      213: 21300236
+    second: Arcade - X-Men - Dazzler_118
+  - first:
+      213: 21300238
+    second: Arcade - X-Men - Dazzler_119
+  - first:
+      213: 21300240
+    second: Arcade - X-Men - Dazzler_120
+  - first:
+      213: 21300242
+    second: Arcade - X-Men - Dazzler_121
+  - first:
+      213: 21300244
+    second: Arcade - X-Men - Dazzler_122
+  - first:
+      213: 21300246
+    second: Arcade - X-Men - Dazzler_123
+  - first:
+      213: 21300248
+    second: Arcade - X-Men - Dazzler_124
+  - first:
+      213: 21300250
+    second: Arcade - X-Men - Dazzler_125
+  - first:
+      213: 21300252
+    second: Arcade - X-Men - Dazzler_126
+  - first:
+      213: 21300254
+    second: Arcade - X-Men - Dazzler_127
+  - first:
+      213: 21300256
+    second: Arcade - X-Men - Dazzler_128
+  - first:
+      213: 21300258
+    second: Arcade - X-Men - Dazzler_129
+  - first:
+      213: 21300260
+    second: Arcade - X-Men - Dazzler_130
+  - first:
+      213: 21300262
+    second: Arcade - X-Men - Dazzler_131
+  - first:
+      213: 21300264
+    second: Arcade - X-Men - Dazzler_132
+  - first:
+      213: 21300266
+    second: Arcade - X-Men - Dazzler_133
+  - first:
+      213: 21300268
+    second: Arcade - X-Men - Dazzler_134
+  - first:
+      213: 21300270
+    second: Arcade - X-Men - Dazzler_135
+  - first:
+      213: 21300272
+    second: Arcade - X-Men - Dazzler_136
+  - first:
+      213: 21300274
+    second: Arcade - X-Men - Dazzler_137
+  - first:
+      213: 21300276
+    second: Arcade - X-Men - Dazzler_138
+  - first:
+      213: 21300278
+    second: Arcade - X-Men - Dazzler_139
+  - first:
+      213: 21300280
+    second: Arcade - X-Men - Dazzler_140
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -161,9 +443,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -172,9 +457,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -195,11 +480,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 8192
     resizeAlgorithm: 0
@@ -209,8 +500,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 8192
     resizeAlgorithm: 0
@@ -220,7 +513,35 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -240,6 +561,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 496c64457f81243c9947b2c874a01eca
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -260,6 +582,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4778dca3f4c1f4847afc4b474e9b8b07
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -280,6 +603,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0a8dc162e05be401aaa6d2694faa3b91
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -300,6 +624,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 624217afecfcd4822b1a845c4d4ec34c
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -320,6 +645,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ae68324acda28498590e9357ffc0fd2a
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -340,6 +666,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 119816b28a3e1429097447041a952f98
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -360,6 +687,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 165e807a5fb8b414eb70e4e26d6cf8b4
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -380,6 +708,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5f992fee103704e61856657e04551c0f
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -400,6 +729,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8a13746393f98499586b542bf57c58ab
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -420,6 +750,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 043937d25aa344e488732a9db9250860
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -440,6 +771,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8111569a13b99476f9bf50260b359d56
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -460,6 +792,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3d719359a08584e0680b0e01cb457dc2
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -480,6 +813,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b605ef101eb804de88df02f86e255192
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -500,6 +834,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9da1bffccea564d249662f4d91ad8e74
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -520,6 +855,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 620cc96be7e134669bf2ec6c1276ddfa
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -540,6 +876,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bee1bc37a3e934cd5b723d8c010ab8de
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -560,6 +897,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c174577f456ad4345b60e65e1e2ee68b
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -580,6 +918,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a8d4b6bd137034b3bb674ef2f0269964
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -600,6 +939,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7753582e429fd47e881c7fe14ffa3f27
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -620,6 +960,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aced8ee4b482e4e5ea055a473eba3887
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -640,6 +981,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7cd8e03d7d650404e81703c5b0cf1d2c
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -660,6 +1002,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 202e72be3afd7412ea6751236956afb3
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -680,6 +1023,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 909876ec2ad074743ac9b7e27514f13b
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -700,6 +1044,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d44722bc5b9ab40979685b5bce1cb3a6
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -720,6 +1065,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b8e5a799d15ef4c9ebd94f3fc4686559
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -740,6 +1086,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 62c0c2a70ed7142eaa81f0a1153db000
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -760,6 +1107,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f54e0c78ad8e84a569f3150d1684b2fa
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -780,6 +1128,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 21b5a6d9444b34834a9948aafb11e919
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -800,6 +1149,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e83d8d4f0173e46258a379fa83f5009e
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -820,6 +1170,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5a566bc0df0aa4ec2909261af3276da4
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -840,6 +1191,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 50804398d0ca04c97815718d7c7ec470
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -860,6 +1212,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8e7af3b4928f24aae84bda9e86db3e28
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
@@ -880,6 +1233,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 64605b18e38dc40a2bf542a998c42f56
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
@@ -900,6 +1254,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cae70188f76214ff28acbbfd5d3b51ac
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
@@ -920,6 +1275,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8f64820dde79c45f2a3205bbce39f947
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
@@ -940,6 +1296,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b5709f3841d1d4cbf8df6bc9e6c392af
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
@@ -960,6 +1317,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 36a3ce2e4f81f4118bf3bbc4016e0144
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
@@ -980,6 +1338,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82531b1384ec74afdb675aedc17c8b6d
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
@@ -1000,6 +1359,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6ed9d52b63a5b44f3846d1a4715eff76
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
@@ -1020,6 +1380,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a15c66a63f221457a8607ad8e591b6e6
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
@@ -1040,6 +1401,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e63daea000edd4826804c4f433da1e31
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
@@ -1060,6 +1422,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 48dd450f99bab41e281498e0bbe72686
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
@@ -1080,6 +1443,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 637430310d20c447a8bf2eeefb9ad4fb
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
@@ -1100,6 +1464,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a8e5ded3b4afe469b8f1adaa81d2c22f
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
@@ -1120,6 +1485,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2e53f64b5bc3f46a29940a9f5771b8d3
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
@@ -1140,6 +1506,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9bb4464da72814fe2ad4285307da7197
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
@@ -1160,6 +1527,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98f7d74bf56aa4531b1547df475888ce
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
@@ -1180,6 +1548,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7f441425f36eb4f75897c5820761a545
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
@@ -1200,6 +1569,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7bd2f18c31fae4d7382ca5586998acc1
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1220,6 +1590,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 618e510547d5f416c9cfce1408cf33d0
+      internalID: 21300098
       vertices: []
       indices: 
       edges: []
@@ -1240,6 +1611,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82d58641afef94427b62f5d028db98af
+      internalID: 21300100
       vertices: []
       indices: 
       edges: []
@@ -1260,6 +1632,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 093f59467eb644016bed94b7fa1232d5
+      internalID: 21300102
       vertices: []
       indices: 
       edges: []
@@ -1280,6 +1653,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 549e2fd2601ea4730a3b55a7de70bcb3
+      internalID: 21300104
       vertices: []
       indices: 
       edges: []
@@ -1300,6 +1674,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 824e0886a3ebd4050983c73b9cc3a95d
+      internalID: 21300106
       vertices: []
       indices: 
       edges: []
@@ -1320,6 +1695,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9a8e1a9c5484749cd984cedcf435d940
+      internalID: 21300108
       vertices: []
       indices: 
       edges: []
@@ -1340,6 +1716,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2dcbd8d7b88024cdf83be00418a3cfff
+      internalID: 21300110
       vertices: []
       indices: 
       edges: []
@@ -1360,6 +1737,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e6ecbb7d648654538af6923ad79c0885
+      internalID: 21300112
       vertices: []
       indices: 
       edges: []
@@ -1380,6 +1758,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 467367ec4839a4fe187299b808a9cee8
+      internalID: 21300114
       vertices: []
       indices: 
       edges: []
@@ -1400,6 +1779,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5075a1a06a9694e09bda350e8d550321
+      internalID: 21300116
       vertices: []
       indices: 
       edges: []
@@ -1420,6 +1800,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bd644b4de148f46a2bdc87f78540a77a
+      internalID: 21300118
       vertices: []
       indices: 
       edges: []
@@ -1440,6 +1821,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1baca952d282444a08cb47421c1db942
+      internalID: 21300120
       vertices: []
       indices: 
       edges: []
@@ -1460,6 +1842,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 92d00a054ca74494fb5fe36b5641ef2a
+      internalID: 21300122
       vertices: []
       indices: 
       edges: []
@@ -1480,6 +1863,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b084723bdfa0d47a9b91e27d673f8253
+      internalID: 21300124
       vertices: []
       indices: 
       edges: []
@@ -1500,6 +1884,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 879867cec79144c0495e5e7f6675f801
+      internalID: 21300126
       vertices: []
       indices: 
       edges: []
@@ -1520,6 +1905,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b5b9daae1c764c14bc50b0cd2653e75
+      internalID: 21300128
       vertices: []
       indices: 
       edges: []
@@ -1540,6 +1926,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 713c7f9c103b7433094fc261d15c833b
+      internalID: 21300130
       vertices: []
       indices: 
       edges: []
@@ -1560,6 +1947,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f91923c318c7404f98efb5210762829
+      internalID: 21300132
       vertices: []
       indices: 
       edges: []
@@ -1580,6 +1968,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f5dd1f151324544fb9e6425e1a504bb3
+      internalID: 21300134
       vertices: []
       indices: 
       edges: []
@@ -1600,6 +1989,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f3d933a0c911f44cdb1379c63459e033
+      internalID: 21300136
       vertices: []
       indices: 
       edges: []
@@ -1620,6 +2010,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9d90d9986d8594255a5bf284b0851bb1
+      internalID: 21300138
       vertices: []
       indices: 
       edges: []
@@ -1640,6 +2031,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 07aa87a5b441c4dcf8d4b793f58ea6e6
+      internalID: 21300140
       vertices: []
       indices: 
       edges: []
@@ -1660,6 +2052,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 338319bd0a98e4779aff80f406cc09e5
+      internalID: 21300142
       vertices: []
       indices: 
       edges: []
@@ -1680,6 +2073,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 173abba638cd3476c8a48719ea2a3666
+      internalID: 21300144
       vertices: []
       indices: 
       edges: []
@@ -1700,6 +2094,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6d0a3bde544d341babd7e09ccc801ff0
+      internalID: 21300146
       vertices: []
       indices: 
       edges: []
@@ -1720,6 +2115,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2ad0e400af2584d63bf9edc07d2eb57b
+      internalID: 21300148
       vertices: []
       indices: 
       edges: []
@@ -1740,6 +2136,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4a9ed18f8c8f54526a31f1a4c67c2158
+      internalID: 21300150
       vertices: []
       indices: 
       edges: []
@@ -1760,6 +2157,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0985792d49c0a4092b74ed840dd4a0b3
+      internalID: 21300152
       vertices: []
       indices: 
       edges: []
@@ -1780,6 +2178,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 80c014aeea39a4e41a7fe58efc82e252
+      internalID: 21300154
       vertices: []
       indices: 
       edges: []
@@ -1800,6 +2199,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 316f78192c558417c8b77c96e253e54d
+      internalID: 21300156
       vertices: []
       indices: 
       edges: []
@@ -1820,6 +2220,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ef011077a697a4cc0b81650b89ac5f8c
+      internalID: 21300158
       vertices: []
       indices: 
       edges: []
@@ -1840,6 +2241,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 96e994e578cb64f37bc915fa449273fa
+      internalID: 21300160
       vertices: []
       indices: 
       edges: []
@@ -1860,6 +2262,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0490c42d3c2e14032a9fce011b8196c7
+      internalID: 21300162
       vertices: []
       indices: 
       edges: []
@@ -1880,6 +2283,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff526eb1a56c2418aba3aa15eafc4c00
+      internalID: 21300164
       vertices: []
       indices: 
       edges: []
@@ -1900,6 +2304,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8b8cfd525ee6e4aada5ffff4245655fe
+      internalID: 21300166
       vertices: []
       indices: 
       edges: []
@@ -1920,6 +2325,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 590c87f56d67046ca81340a4262be125
+      internalID: 21300168
       vertices: []
       indices: 
       edges: []
@@ -1940,6 +2346,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 510620893280842709ff2c1f53c72cea
+      internalID: 21300170
       vertices: []
       indices: 
       edges: []
@@ -1960,6 +2367,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c257808a366a54e45b34c2b79864b771
+      internalID: 21300172
       vertices: []
       indices: 
       edges: []
@@ -1980,6 +2388,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bfbdffa7ca2064938aff5f7b676ac154
+      internalID: 21300174
       vertices: []
       indices: 
       edges: []
@@ -2000,6 +2409,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c59e17c66f49d44f9aff0b8861eb07db
+      internalID: 21300176
       vertices: []
       indices: 
       edges: []
@@ -2020,6 +2430,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 776699243a4e24810bf174902d87b1f3
+      internalID: 21300178
       vertices: []
       indices: 
       edges: []
@@ -2040,6 +2451,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 411322c8abd8d4ef986366a4b8ac2a78
+      internalID: 21300180
       vertices: []
       indices: 
       edges: []
@@ -2060,6 +2472,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ef919a721bfbd4e3c86dd32805c490e9
+      internalID: 21300182
       vertices: []
       indices: 
       edges: []
@@ -2080,6 +2493,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aaa5eb141bffb4c9ba2bc68903750f39
+      internalID: 21300184
       vertices: []
       indices: 
       edges: []
@@ -2100,6 +2514,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0b609bd0c97b54664ba59ea213c9e7c0
+      internalID: 21300186
       vertices: []
       indices: 
       edges: []
@@ -2120,6 +2535,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b3ef712fffaa1415c8804fe9e6f63721
+      internalID: 21300188
       vertices: []
       indices: 
       edges: []
@@ -2140,6 +2556,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 09a4151d034ad45a6900e34c998d5e8b
+      internalID: 21300190
       vertices: []
       indices: 
       edges: []
@@ -2160,6 +2577,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c2118b591b523408caa9cd40fe5f7d26
+      internalID: 21300192
       vertices: []
       indices: 
       edges: []
@@ -2180,6 +2598,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8442f8d8704d9450786736e1d246fffa
+      internalID: 21300194
       vertices: []
       indices: 
       edges: []
@@ -2200,6 +2619,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1642f094099ba47e5bda86b42c1e87a9
+      internalID: 21300196
       vertices: []
       indices: 
       edges: []
@@ -2220,6 +2640,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1a45ce36643ab4bb996b54139a006174
+      internalID: 21300198
       vertices: []
       indices: 
       edges: []
@@ -2240,6 +2661,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0805a35f1b4e14c45be9b1e1d70fb382
+      internalID: 21300200
       vertices: []
       indices: 
       edges: []
@@ -2260,6 +2682,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 3eef52ccd58cf4945aaa20eaae3216a1
+      internalID: 21300202
       vertices: []
       indices: 
       edges: []
@@ -2280,6 +2703,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 056c116b6ebb34a44878428b09a192f5
+      internalID: 21300204
       vertices: []
       indices: 
       edges: []
@@ -2300,6 +2724,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9f733e4e63e2e4e4cb09ab50235c53f5
+      internalID: 21300206
       vertices: []
       indices: 
       edges: []
@@ -2320,6 +2745,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 55fc824bc67fa472d8d56d00339f2292
+      internalID: 21300208
       vertices: []
       indices: 
       edges: []
@@ -2340,6 +2766,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8d03fa8236a444ff58a996abd4b5163a
+      internalID: 21300210
       vertices: []
       indices: 
       edges: []
@@ -2360,6 +2787,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8f11aa5db749345d4abe5b921c343cb1
+      internalID: 21300212
       vertices: []
       indices: 
       edges: []
@@ -2380,6 +2808,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 27687b6beedc043cd9c016e46f8207ea
+      internalID: 21300214
       vertices: []
       indices: 
       edges: []
@@ -2400,6 +2829,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38fdc4129dad9434b8b3041374262ab3
+      internalID: 21300216
       vertices: []
       indices: 
       edges: []
@@ -2420,6 +2850,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 405e522a12aa843429d439249660a6bd
+      internalID: 21300218
       vertices: []
       indices: 
       edges: []
@@ -2440,6 +2871,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f981956ee80994fb2a13c647ecd0aae2
+      internalID: 21300220
       vertices: []
       indices: 
       edges: []
@@ -2460,6 +2892,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b42e6ff73abed4130a9b4c1c78a51909
+      internalID: 21300222
       vertices: []
       indices: 
       edges: []
@@ -2480,6 +2913,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 426bbe050d87d4412a27a6e0223519c8
+      internalID: 21300224
       vertices: []
       indices: 
       edges: []
@@ -2500,6 +2934,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0437201fa10cf4bb5ad0f6b626723bac
+      internalID: 21300226
       vertices: []
       indices: 
       edges: []
@@ -2520,6 +2955,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: dd2cfc148b64440488782c78078971ae
+      internalID: 21300228
       vertices: []
       indices: 
       edges: []
@@ -2540,6 +2976,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e35c3dd8f21ca44b9b38efd6f6b1c01c
+      internalID: 21300230
       vertices: []
       indices: 
       edges: []
@@ -2560,6 +2997,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2a2b2a3828fd34064adc77a7cf847bdc
+      internalID: 21300232
       vertices: []
       indices: 
       edges: []
@@ -2580,6 +3018,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bf961b13749e340fbb38fb6970501859
+      internalID: 21300234
       vertices: []
       indices: 
       edges: []
@@ -2600,6 +3039,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ed045fc8293fa43d49ea8c975087fc91
+      internalID: 21300236
       vertices: []
       indices: 
       edges: []
@@ -2620,6 +3060,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: aa8331cbf2b8d4a3fb5f3eb539645bfa
+      internalID: 21300238
       vertices: []
       indices: 
       edges: []
@@ -2640,6 +3081,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e16e13db5fbe14d39bf827091ef2e5f1
+      internalID: 21300240
       vertices: []
       indices: 
       edges: []
@@ -2660,6 +3102,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e3402af6ed5034a2d87008ed6ce82835
+      internalID: 21300242
       vertices: []
       indices: 
       edges: []
@@ -2680,6 +3123,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6becf5893d6ac4584a508e8b5b82a250
+      internalID: 21300244
       vertices: []
       indices: 
       edges: []
@@ -2700,6 +3144,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1cda8d6b122434d5185867143d2d009e
+      internalID: 21300246
       vertices: []
       indices: 
       edges: []
@@ -2720,6 +3165,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 71b688a1eb982478c9ed893282d71e52
+      internalID: 21300248
       vertices: []
       indices: 
       edges: []
@@ -2740,6 +3186,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5b5328b6901b442198334c79d71aa7ca
+      internalID: 21300250
       vertices: []
       indices: 
       edges: []
@@ -2760,6 +3207,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 688a8ad9fc8a544ffab91e06e90b08a5
+      internalID: 21300252
       vertices: []
       indices: 
       edges: []
@@ -2780,6 +3228,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a1195606b674d42098cd20d152b15e14
+      internalID: 21300254
       vertices: []
       indices: 
       edges: []
@@ -2800,6 +3249,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c2b5dc436da7e4a049a949d18436c1f0
+      internalID: 21300256
       vertices: []
       indices: 
       edges: []
@@ -2820,6 +3270,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7196c8994dcc9416fb84768054d2684b
+      internalID: 21300258
       vertices: []
       indices: 
       edges: []
@@ -2840,6 +3291,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 505f31e853f364ac38ec0541446f4678
+      internalID: 21300260
       vertices: []
       indices: 
       edges: []
@@ -2860,6 +3312,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 281f88b0edfec4681a8b3b3f235fd764
+      internalID: 21300262
       vertices: []
       indices: 
       edges: []
@@ -2880,6 +3333,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c88fced1e768c47f29e4fee3cff2a976
+      internalID: 21300264
       vertices: []
       indices: 
       edges: []
@@ -2900,6 +3354,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ff93978aa1e424235b135cb0031a0780
+      internalID: 21300266
       vertices: []
       indices: 
       edges: []
@@ -2920,6 +3375,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5bf755fdcb9864d35a629bf0da0ff190
+      internalID: 21300268
       vertices: []
       indices: 
       edges: []
@@ -2940,6 +3396,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 03a53e95316104c6d855cab01365b477
+      internalID: 21300270
       vertices: []
       indices: 
       edges: []
@@ -2960,6 +3417,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 918d856ddcaa7485b89c42812009a964
+      internalID: 21300272
       vertices: []
       indices: 
       edges: []
@@ -2980,6 +3438,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8c7f370c6f5174706a834fab42705410
+      internalID: 21300274
       vertices: []
       indices: 
       edges: []
@@ -3000,6 +3459,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c0dfe082c5d034451935e74bd4bb5f0a
+      internalID: 21300276
       vertices: []
       indices: 
       edges: []
@@ -3020,6 +3480,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d4dda4cbbf5a2490ea842d1eeb2a507a
+      internalID: 21300278
       vertices: []
       indices: 
       edges: []
@@ -3040,6 +3501,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 98f3cfef597924b5ebc2dd638afe6f64
+      internalID: 21300280
       vertices: []
       indices: 
       edges: []
@@ -3048,13 +3510,156 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 524e3163d72214f05ad6313a423fb54e
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - X-Men - Dazzler_0: 21300000
+      Arcade - X-Men - Dazzler_1: 21300002
+      Arcade - X-Men - Dazzler_10: 21300020
+      Arcade - X-Men - Dazzler_100: 21300200
+      Arcade - X-Men - Dazzler_101: 21300202
+      Arcade - X-Men - Dazzler_102: 21300204
+      Arcade - X-Men - Dazzler_103: 21300206
+      Arcade - X-Men - Dazzler_104: 21300208
+      Arcade - X-Men - Dazzler_105: 21300210
+      Arcade - X-Men - Dazzler_106: 21300212
+      Arcade - X-Men - Dazzler_107: 21300214
+      Arcade - X-Men - Dazzler_108: 21300216
+      Arcade - X-Men - Dazzler_109: 21300218
+      Arcade - X-Men - Dazzler_11: 21300022
+      Arcade - X-Men - Dazzler_110: 21300220
+      Arcade - X-Men - Dazzler_111: 21300222
+      Arcade - X-Men - Dazzler_112: 21300224
+      Arcade - X-Men - Dazzler_113: 21300226
+      Arcade - X-Men - Dazzler_114: 21300228
+      Arcade - X-Men - Dazzler_115: 21300230
+      Arcade - X-Men - Dazzler_116: 21300232
+      Arcade - X-Men - Dazzler_117: 21300234
+      Arcade - X-Men - Dazzler_118: 21300236
+      Arcade - X-Men - Dazzler_119: 21300238
+      Arcade - X-Men - Dazzler_12: 21300024
+      Arcade - X-Men - Dazzler_120: 21300240
+      Arcade - X-Men - Dazzler_121: 21300242
+      Arcade - X-Men - Dazzler_122: 21300244
+      Arcade - X-Men - Dazzler_123: 21300246
+      Arcade - X-Men - Dazzler_124: 21300248
+      Arcade - X-Men - Dazzler_125: 21300250
+      Arcade - X-Men - Dazzler_126: 21300252
+      Arcade - X-Men - Dazzler_127: 21300254
+      Arcade - X-Men - Dazzler_128: 21300256
+      Arcade - X-Men - Dazzler_129: 21300258
+      Arcade - X-Men - Dazzler_13: 21300026
+      Arcade - X-Men - Dazzler_130: 21300260
+      Arcade - X-Men - Dazzler_131: 21300262
+      Arcade - X-Men - Dazzler_132: 21300264
+      Arcade - X-Men - Dazzler_133: 21300266
+      Arcade - X-Men - Dazzler_134: 21300268
+      Arcade - X-Men - Dazzler_135: 21300270
+      Arcade - X-Men - Dazzler_136: 21300272
+      Arcade - X-Men - Dazzler_137: 21300274
+      Arcade - X-Men - Dazzler_138: 21300276
+      Arcade - X-Men - Dazzler_139: 21300278
+      Arcade - X-Men - Dazzler_14: 21300028
+      Arcade - X-Men - Dazzler_140: 21300280
+      Arcade - X-Men - Dazzler_15: 21300030
+      Arcade - X-Men - Dazzler_16: 21300032
+      Arcade - X-Men - Dazzler_17: 21300034
+      Arcade - X-Men - Dazzler_18: 21300036
+      Arcade - X-Men - Dazzler_19: 21300038
+      Arcade - X-Men - Dazzler_2: 21300004
+      Arcade - X-Men - Dazzler_20: 21300040
+      Arcade - X-Men - Dazzler_21: 21300042
+      Arcade - X-Men - Dazzler_22: 21300044
+      Arcade - X-Men - Dazzler_23: 21300046
+      Arcade - X-Men - Dazzler_24: 21300048
+      Arcade - X-Men - Dazzler_25: 21300050
+      Arcade - X-Men - Dazzler_26: 21300052
+      Arcade - X-Men - Dazzler_27: 21300054
+      Arcade - X-Men - Dazzler_28: 21300056
+      Arcade - X-Men - Dazzler_29: 21300058
+      Arcade - X-Men - Dazzler_3: 21300006
+      Arcade - X-Men - Dazzler_30: 21300060
+      Arcade - X-Men - Dazzler_31: 21300062
+      Arcade - X-Men - Dazzler_32: 21300064
+      Arcade - X-Men - Dazzler_33: 21300066
+      Arcade - X-Men - Dazzler_34: 21300068
+      Arcade - X-Men - Dazzler_35: 21300070
+      Arcade - X-Men - Dazzler_36: 21300072
+      Arcade - X-Men - Dazzler_37: 21300074
+      Arcade - X-Men - Dazzler_38: 21300076
+      Arcade - X-Men - Dazzler_39: 21300078
+      Arcade - X-Men - Dazzler_4: 21300008
+      Arcade - X-Men - Dazzler_40: 21300080
+      Arcade - X-Men - Dazzler_41: 21300082
+      Arcade - X-Men - Dazzler_42: 21300084
+      Arcade - X-Men - Dazzler_43: 21300086
+      Arcade - X-Men - Dazzler_44: 21300088
+      Arcade - X-Men - Dazzler_45: 21300090
+      Arcade - X-Men - Dazzler_46: 21300092
+      Arcade - X-Men - Dazzler_47: 21300094
+      Arcade - X-Men - Dazzler_48: 21300096
+      Arcade - X-Men - Dazzler_49: 21300098
+      Arcade - X-Men - Dazzler_5: 21300010
+      Arcade - X-Men - Dazzler_50: 21300100
+      Arcade - X-Men - Dazzler_51: 21300102
+      Arcade - X-Men - Dazzler_52: 21300104
+      Arcade - X-Men - Dazzler_53: 21300106
+      Arcade - X-Men - Dazzler_54: 21300108
+      Arcade - X-Men - Dazzler_55: 21300110
+      Arcade - X-Men - Dazzler_56: 21300112
+      Arcade - X-Men - Dazzler_57: 21300114
+      Arcade - X-Men - Dazzler_58: 21300116
+      Arcade - X-Men - Dazzler_59: 21300118
+      Arcade - X-Men - Dazzler_6: 21300012
+      Arcade - X-Men - Dazzler_60: 21300120
+      Arcade - X-Men - Dazzler_61: 21300122
+      Arcade - X-Men - Dazzler_62: 21300124
+      Arcade - X-Men - Dazzler_63: 21300126
+      Arcade - X-Men - Dazzler_64: 21300128
+      Arcade - X-Men - Dazzler_65: 21300130
+      Arcade - X-Men - Dazzler_66: 21300132
+      Arcade - X-Men - Dazzler_67: 21300134
+      Arcade - X-Men - Dazzler_68: 21300136
+      Arcade - X-Men - Dazzler_69: 21300138
+      Arcade - X-Men - Dazzler_7: 21300014
+      Arcade - X-Men - Dazzler_70: 21300140
+      Arcade - X-Men - Dazzler_71: 21300142
+      Arcade - X-Men - Dazzler_72: 21300144
+      Arcade - X-Men - Dazzler_73: 21300146
+      Arcade - X-Men - Dazzler_74: 21300148
+      Arcade - X-Men - Dazzler_75: 21300150
+      Arcade - X-Men - Dazzler_76: 21300152
+      Arcade - X-Men - Dazzler_77: 21300154
+      Arcade - X-Men - Dazzler_78: 21300156
+      Arcade - X-Men - Dazzler_79: 21300158
+      Arcade - X-Men - Dazzler_8: 21300016
+      Arcade - X-Men - Dazzler_80: 21300160
+      Arcade - X-Men - Dazzler_81: 21300162
+      Arcade - X-Men - Dazzler_82: 21300164
+      Arcade - X-Men - Dazzler_83: 21300166
+      Arcade - X-Men - Dazzler_84: 21300168
+      Arcade - X-Men - Dazzler_85: 21300170
+      Arcade - X-Men - Dazzler_86: 21300172
+      Arcade - X-Men - Dazzler_87: 21300174
+      Arcade - X-Men - Dazzler_88: 21300176
+      Arcade - X-Men - Dazzler_89: 21300178
+      Arcade - X-Men - Dazzler_9: 21300018
+      Arcade - X-Men - Dazzler_90: 21300180
+      Arcade - X-Men - Dazzler_91: 21300182
+      Arcade - X-Men - Dazzler_92: 21300184
+      Arcade - X-Men - Dazzler_93: 21300186
+      Arcade - X-Men - Dazzler_94: 21300188
+      Arcade - X-Men - Dazzler_95: 21300190
+      Arcade - X-Men - Dazzler_96: 21300192
+      Arcade - X-Men - Dazzler_97: 21300194
+      Arcade - X-Men - Dazzler_98: 21300196
+      Arcade - X-Men - Dazzler_99: 21300198
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
