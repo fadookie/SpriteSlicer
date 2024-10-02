@@ -22,6 +22,7 @@ public class SpriteTextureSliceExporter : ScriptableObject
         return outputDirectory;
     }
 
+    [MenuItem("Assets/Export Slices")]
     [MenuItem("SpriteTextureSliceExporter/Export Slices")]
     public static void ExportSlices() {
         var outputDirectory = GetOutputDirectory();
@@ -60,6 +61,7 @@ public class SpriteTextureSliceExporter : ScriptableObject
         }
     }
     
+    [MenuItem("Assets/Export Slices", true)]
     [MenuItem("SpriteTextureSliceExporter/Export Slices", true)]
     public static bool ExportSlicesValidation() {
         if(Selection.activeObject as Texture2D != null){
